@@ -20,6 +20,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [BTCPay Server React Widget](https://bitcoinmagazine.com/technical/bitcoin-payment-service-btcpay-server-now-easier-to-integrate-with-react-apps)
 
 ## Market News
+- [Ripple Backs out of Fortress Deal](https://www.bankingdive.com/news/ripple-backs-out-fortress-trust-acquisition-crypto-custodian/695190)
+- [3AC’s Su Zhu arrested in Singapore](https://cointelegraph.com/news/3ac-su-zhu-arrested-in-singapore)
 
 ## Notable code changes, proposals, and releases
 
