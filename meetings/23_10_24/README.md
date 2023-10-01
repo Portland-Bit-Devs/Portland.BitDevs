@@ -17,6 +17,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Tech news
 [Marathon Mines Invalid Mainnet Block](https://cointelegraph.com/news/bitcoin-mining-firm-marathon-mines-invalid-block-btc)
+
 [BTCPay Server React Widget](https://bitcoinmagazine.com/technical/bitcoin-payment-service-btcpay-server-now-easier-to-integrate-with-react-apps)
 
 ## Market News
