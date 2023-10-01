@@ -16,8 +16,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - Interaction and asking questions are encouraged!
 
 ## Tech news
-[Marathon Mines Invalid Mainnet Block] (https://cointelegraph.com/news/bitcoin-mining-firm-marathon-mines-invalid-block-btc)
-[BTCPay Server React Widget] (https://bitcoinmagazine.com/technical/bitcoin-payment-service-btcpay-server-now-easier-to-integrate-with-react-apps)
+[Marathon Mines Invalid Mainnet Block](https://cointelegraph.com/news/bitcoin-mining-firm-marathon-mines-invalid-block-btc)
+[BTCPay Server React Widget](https://bitcoinmagazine.com/technical/bitcoin-payment-service-btcpay-server-now-easier-to-integrate-with-react-apps)
 
 ## Market News
 
@@ -26,4 +26,4 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 # Lightning
 
 # Bitcoin Core
-[Bump unconfirmed ancestor transactions to target feerate] (https://github.com/bitcoin/bitcoin/pull/26152)
+[Bump unconfirmed ancestor transactions to target feerate](https://github.com/bitcoin/bitcoin/pull/26152)
