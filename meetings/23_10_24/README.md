@@ -18,6 +18,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Tech news
 - [Marathon Mines Invalid Mainnet Block](https://cointelegraph.com/news/bitcoin-mining-firm-marathon-mines-invalid-block-btc)
 - [BTCPay Server React Widget](https://bitcoinmagazine.com/technical/bitcoin-payment-service-btcpay-server-now-easier-to-integrate-with-react-apps)
+- [Block betas Bitkey Hardware Wallet](https://twitter.com/BitcoinMagazine/status/1709557921820872803)
 
 ## Market News
 - [Ripple Backs out of Fortress Deal](https://www.bankingdive.com/news/ripple-backs-out-fortress-trust-acquisition-crypto-custodian/695190)
