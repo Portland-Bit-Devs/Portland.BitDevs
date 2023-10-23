@@ -30,11 +30,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Bitcoin 25.1 Released](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-25.1.md)
 - [Coldcard Mk4 FW v5.2.0 Released](https://blog.coinkite.com/5.2.0-seed-vault)
 
-# Lightning
+## Lightning
 - [Lightning Replacement Cycling Attack](https://twitter.com/mononautical/status/1715736832950825224)
 - [Eclair Low Balance Route Rejection](https://github.com/ACINQ/eclair/pull/2703)
 - [LND Blinded Routes Support](https://github.com/lightningnetwork/lnd/pull/7267)
 
-# Bitcoin Core
+## Bitcoin Core
 - [Bump unconfirmed ancestor transactions to target feerate](https://github.com/bitcoin/bitcoin/pull/26152)
 - [Assume UTXO #27596](https://github.com/bitcoin/bitcoin/pull/27596)
