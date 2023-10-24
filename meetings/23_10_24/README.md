@@ -32,7 +32,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Lightning
 - [Lightning Replacement Cycling Attack](https://twitter.com/mononautical/status/1715736832950825224)
-- [Taproot Assets on Mainnet] (https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
+- [Taproot Assets on Mainnet](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 
 ## Bitcoin Core
 - [Bump unconfirmed ancestor transactions to target feerate](https://github.com/bitcoin/bitcoin/pull/26152)
