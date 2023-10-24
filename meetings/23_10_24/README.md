@@ -20,7 +20,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - A front end developer to manage and style the Portland.Bitdevs Upgrade website desgined to replace the Meetup forward that currently exists.
 
 ### Schedule
-TODO
+- **6:30-7:00pm:** Arrive, socialize, and grab some food.
+- **7:00 - 8:00pm:** Join Eric and @PortlandHODL for a Socratic Seminar as they delve into the latest updates on Bitcoin & Lightning (so many current events to talk about!)
+- **8:00pm:** Enjoy a screening of the short film "Stranded."
+- **8:30 - 9:00pm:** Engage in discussions about the movie, further socialize, and then we'll wrap up the night (Primal Burger closes at 9pm).
 
 ## Tech news
 - [Marathon Mines Invalid Mainnet Block](https://cointelegraph.com/news/bitcoin-mining-firm-marathon-mines-invalid-block-btc)
