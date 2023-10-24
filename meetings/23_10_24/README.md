@@ -31,6 +31,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Block betas Bitkey Hardware Wallet](https://twitter.com/BitcoinMagazine/status/1709557921820872803)
 - [BitVM is released](https://bitvm.org/bitvm.pdf)
 - [Blocksteam Phishing Scam](https://twitter.com/Blockstream/status/1715628518435111162)
+- [Raspberry Pi 5 Released](https://www.phoronix.com/review/raspberry-pi-5-benchmarks)
 
 ## Market News
 - [Ripple Backs out of Fortress Deal](https://www.bankingdive.com/news/ripple-backs-out-fortress-trust-acquisition-crypto-custodian/695190)
