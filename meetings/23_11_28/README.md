@@ -32,9 +32,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Tech news
 
 ## Market News
+- [Milei wins Argentina's Election](https://twitter.com/unusual_whales/status/1726378361423863891)
 
 ## Notable code changes, proposals, and releases
-
+- [Sophon Released](https://github.com/ordinals/ord/compare/master...rot13maxi:ord:sophon/brc20)
 
 ## Lightning
 - [Lightning Replacement Cycling Attack](https://twitter.com/mononautical/status/1715736832950825224)
