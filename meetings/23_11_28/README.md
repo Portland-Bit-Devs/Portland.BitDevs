@@ -26,7 +26,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Schedule
 - **6:30-7:00pm:** Arrive, socialize, and grab some food.
 - **7:00 - 7:30:**** Member Presentation about [URXOracle](https://utxo.live/oracle)
-- **7:30 - 8:30pm:** Join Eric and @PortlandHODL for a Socratic Seminar as they delve into the latest updates on Bitcoin & Lightning (so many current events to talk about!)
+- **7:30 - 8:00:** Portland.HODL Presentation about Basic Bitcoin Mining - Mining on an STM32
+- **8:00 - 8:30pm:** Join Eric and @PortlandHODL for a Socratic Seminar as they delve into the latest updates on Bitcoin & Lightning (so many current events to talk about!)
 - **8:30 - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Tech news
