@@ -24,13 +24,14 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - A front end developer to manage and style the Portland.Bitdevs Upgrade website desgined to replace the Meetup forward that currently exists.
 
 ### Schedule
-- **6:30-7:00pm:** Arrive, socialize, and grab some food.
-- **7:00 - 7:30:**** Member Presentation about [URXOracle](https://utxo.live/oracle)
+- **6:30 - 7:00pm:** Arrive, socialize, and grab some food.
+- **7:00 - 7:30:** Member Presentation about [URXOracle](https://utxo.live/oracle)
 - **7:30 - 8:00:** Portland.HODL Presentation about Basic Bitcoin Mining - Mining on an STM32
 - **8:00 - 8:30pm:** Join Eric and @PortlandHODL for a Socratic Seminar as they delve into the latest updates on Bitcoin & Lightning (so many current events to talk about!)
 - **8:30 - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Tech news
+- [Antpool mines 3.5MM USD Fee TX](https://mempool.space/tx/b5a2af5845a8d3796308ff9840e567b14cf6bb158ff26c999e6f9a1f5448f9aa)
 
 ## Market News
 - [Milei wins Argentina's Election](https://twitter.com/unusual_whales/status/1726378361423863891)
