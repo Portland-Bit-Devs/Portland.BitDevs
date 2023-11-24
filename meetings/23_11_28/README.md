@@ -1,7 +1,7 @@
 ---
 date: '2023-11-28'
 type: Doc
-title: "28 October 2023 PDX BitDevs"
+title: "28 November 2023 PDX BitDevs"
 ---
 
 ## Announcements
@@ -32,6 +32,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Tech news
 - [Antpool mines 3.5MM USD Fee TX](https://mempool.space/tx/b5a2af5845a8d3796308ff9840e567b14cf6bb158ff26c999e6f9a1f5448f9aa)
+- [Wallet of Satoshi Removed from USA App Stores](https://twitter.com/ZeusLN/status/1727810997656674355)
 
 ## Market News
 - [Milei wins Argentina's Election](https://twitter.com/unusual_whales/status/1726378361423863891)
