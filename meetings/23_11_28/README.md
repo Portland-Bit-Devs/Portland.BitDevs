@@ -52,3 +52,12 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Lightning Replacement Cycling Attack](https://twitter.com/mononautical/status/1715736832950825224)
 - [Taproot Assets on Mainnet](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 - [Docker LNURL Commando](https://github.com/russeree/docker-lnurl-commando)
+
+## Educational Materials
+[BitVM Explained](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/edit?usp=drivesdk)
+[Sparrow Wallet Overview](https://twitter.com/PortlandHODL/status/1716594757881979350)
+[SegWit Overview](https://twitter.com/PortlandHODL/status/1726755895416430944)
+[PGP/GPG Overview](https://twitter.com/PortlandHODL/status/1721678252711027137)
+[Bitcoin node privavy](https://twitter.com/PortlandHODL/status/1719126872423051395)
+
+
