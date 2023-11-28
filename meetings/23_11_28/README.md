@@ -31,10 +31,9 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:30 - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Tech news
-- [Antpool mines 3.5MM USD Fee TX](https://mempool.space/tx/b5a2af5845a8d3796308ff9840e567b14cf6bb158ff26c999e6f9a1f5448f9aa)
 - [Wallet of Satoshi Removed from USA App Stores](https://twitter.com/ZeusLN/status/1727810997656674355)
 - [Core Lighting v23.11](https://github.com/ElementsProject/lightning/releases/tag/v23.11)
-- [83.5 BTC Fee Paid to AntPool](https://twitter.com/mononautical/status/1727658038994325596)
+- [83.5 BTC Fee Mined by AntPool](https://twitter.com/mononautical/status/1727658038994325596)
 - [83.5 BTC Fee Signer Signs Message Claiming Proior Ownership](https://twitter.com/mononautical/status/1728946778798793126)
 - [0xB10C Shows evidence of OFAC TX censorship from F2POOL](https://techcrunch.com/2023/11/16/taproot-wizards-bitcoin-ordinals/?guccounter=1)
 - [Bitcoin Mailing List Host Ceases Operations EoY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
