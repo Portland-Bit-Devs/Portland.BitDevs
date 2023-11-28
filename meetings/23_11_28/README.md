@@ -21,7 +21,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Requests
 - Think about ideas for a physical project for the Portland.BitDevs, *Ex. A vending machine*
-- A front end developer to manage and style the Portland.Bitdevs Upgrade website desgined to replace the Meetup forward that currently exists.
+- Artist / Graphic designed to help with branding and web applications.
 
 ### Schedule
 - **6:30 - 7:00pm:** Arrive, socialize, and grab some food.
@@ -37,6 +37,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [83.5 BTC Fee Paid to AntPool](https://twitter.com/mononautical/status/1727658038994325596)
 - [83.5 BTC Fee Signer Signs Message Claiming Proior Ownership](https://twitter.com/mononautical/status/1728946778798793126)
 - [0xB10C Shows evidence of OFAC TX censorship from F2POOL](https://techcrunch.com/2023/11/16/taproot-wizards-bitcoin-ordinals/?guccounter=1)
+- [Bitcoin Mailing List Host Ceases Operations EoY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
 
 ## Market News
 - [Milei wins Argentina's Election](https://twitter.com/unusual_whales/status/1726378361423863891)
@@ -46,7 +47,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Notable code changes, proposals, and releases
 - [Sophon Released](https://github.com/ordinals/ord/compare/master...rot13maxi:ord:sophon/brc20)
 - [Mempool.dar XOR obfuscating](https://github.com/bitcoin/bitcoin/pull/28207)
-- 
 
 ## Lightning
 - [Lightning Replacement Cycling Attack](https://twitter.com/mononautical/status/1715736832950825224)
