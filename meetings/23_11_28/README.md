@@ -32,6 +32,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Tech news
 - [Wallet of Satoshi Removed from USA App Stores](https://twitter.com/ZeusLN/status/1727810997656674355)
+- [@jack's 6.5MM funding into Ocean decentralized mining](https://bitcoinmagazine.com/business/ocean-jack-dorsey-funds-bitcoin-mining-pool)
 - [Core Lighting v23.11](https://github.com/ElementsProject/lightning/releases/tag/v23.11)
 - [83.5 BTC Fee Mined by AntPool](https://twitter.com/mononautical/status/1727658038994325596)
 - [83.5 BTC Fee Signer Signs Message Claiming Proior Ownership](https://twitter.com/mononautical/status/1728946778798793126)
