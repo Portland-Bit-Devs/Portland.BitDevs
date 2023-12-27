@@ -19,7 +19,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - Interaction and asking questions are encouraged!
 
 ### Requests
-- A guest speaker for Jan 29th 2024
+- A guest speaker for Jan 23th 2024
 - Artist / Graphic designed to help with branding and web applications.
 
 ### Schedule
@@ -30,10 +30,26 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Tech news
 - [P2MS (PERMIT_BAREMULTISIG) discussion resurfaces as stamps usage increases](https://github.com/bitcoin/bitcoin/pull/28217)
+    - Stamps bloat the UTXO set serialized size through data storage
+    - This is a relay policy change, as such doesn't change consensus
+    - Has positives and negatives
 - [Ocean enables 3 termplates for miners to choose from](https://twitter.com/ocean_mining/status/1737745210191564958)
+    - 'OCEAN Recommended' - Claims to be the best fliter for removing arbitrary data.
+    - 'Ordistrspector' - Looser policy the culls inscription based scripts[]
+    - Bitcoin Core '- The regular Bitcoin Core block template generation (_Takes a pool fee of 2%_)
 - [Payjoin Client for Bitcoin Core released](https://github.com/payjoin/rust-payjoin/tree/master/payjoin-cli)
+    - Enables a coinjoin between 2 people that appears to be a single spend onchain
 - [Zeus 0.8 Released](https://github.com/ZeusLN/zeus/releases/tag/v0.8.0)
     - OLYMPUS by ZEUS 0-conf channel service
-- [83.5 BTC Fee Signer Signs Message Claiming Proior Ownership](https://twitter.com/mononautical/status/1728946778798793126)
-- [0xB10C Shows evidence of OFAC TX censorship from F2POOL](https://techcrunch.com/2023/11/16/taproot-wizards-bitcoin-ordinals/?guccounter=1)
-- [Bitcoin Mailing List Host Ceases Operations EoY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
+    - Zaplocker self-custodial lightning addresses
+    - Taproot Channel Support
+- [BTCPay Server Comprimised](https://github.com/dennisreimann/btcpayserver-plugin-lnbank/)
+    - [Twitter Post](https://twitter.com/BtcpayServer/status/1739669361223172448)i
+    - [Large Theft](https://stacker.news/items/347361)
+
+## Market News
+- Barry Silbert Resigns from Grayscale
+    - [Resignation](https://www.bloomberg.com/news/articles/2023-12-26/grayscale-says-barry-silbert-resigns-as-chairman-of-the-board?embedded-checkout=true)
+    - [Fraud Allegations](https://x.com/real_vijay/status/1721385528510251182?s=46)
+
+
