@@ -55,6 +55,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - OP_CHECKTEMPLATEVERIFY regains community support
     - [Twitter Post Supporting Covenants](https://twitter.com/reardencode/status/1739059702485709212)
     - [Mailing List - Scaling Lightning with Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021941.html)
+- [.4BTC Taken from ColdCard - User Error](https://www.reddit.com/r/coldcard/comments/17epqk8/040_bitcoin_taken_instantly_from_my_coldcard/)
 
 ## Market News
 - Barry Silbert Resigns from Grayscale
