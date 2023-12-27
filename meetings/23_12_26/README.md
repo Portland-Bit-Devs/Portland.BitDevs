@@ -22,6 +22,12 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - A guest speaker for Jan 23th 2024
 - Artist / Graphic designed to help with branding and web applications.
 
+### Giveaway
+- [Use Guess the Nonce](https://nonce.portlandbitdevs.com/)
+    - BitBox02
+    - Bitcoin Blend coffee
+    - Bitcoin hat
+
 ### Schedule
 - **6:30 - 7:00pm:** Arrive, socialize, and grab some food.
 - **7:00 - 7:45:** Member Presentation about [The State of Bitcoin Mining 2023]()
@@ -46,6 +52,9 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [BTCPay Server Comprimised](https://github.com/dennisreimann/btcpayserver-plugin-lnbank/)
     - [Twitter Post](https://twitter.com/BtcpayServer/status/1739669361223172448)i
     - [Large Theft](https://stacker.news/items/347361)
+- OP_CHECKTEMPLATEVERIFY regains community support
+    - [Twitter Post Supporting Covenants](https://twitter.com/reardencode/status/1739059702485709212)
+    - [Mailing List - Scaling Lightning with Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021941.html)
 
 ## Market News
 - Barry Silbert Resigns from Grayscale
