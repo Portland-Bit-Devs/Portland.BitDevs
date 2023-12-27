@@ -63,3 +63,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Mining Presentation Slides
 ![Title Slide](mining_presentation/1.jpg)
+![Mining Flow](mining_presentation/2.jpg)
+![Mining History](mining_presentation/3.jpg)
+![Present Mining](mining_presentation/4.jpg)
+![Problems](mining_presentation/5.jpg)
+![The Future](mining_presentation/6.jpg)
