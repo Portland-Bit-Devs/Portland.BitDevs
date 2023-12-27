@@ -61,4 +61,5 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
     - [Resignation](https://www.bloomberg.com/news/articles/2023-12-26/grayscale-says-barry-silbert-resigns-as-chairman-of-the-board?embedded-checkout=true)
     - [Fraud Allegations](https://x.com/real_vijay/status/1721385528510251182?s=46)
 
-
+## Mining Presentation Slides
+![Title Slide](mining_presentation/1.jpg)
