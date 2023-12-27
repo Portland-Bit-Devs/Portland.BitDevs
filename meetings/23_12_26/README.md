@@ -39,6 +39,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
     - Stamps bloat the UTXO set serialized size through data storage
     - This is a relay policy change, as such doesn't change consensus
     - Has positives and negatives
+- [Ledger Unsupisingly Harversting User Data](https://protos.com/researcher-finds-data-harvesting-inside-ledger-live-app/)
 - [Ocean enables 3 termplates for miners to choose from](https://twitter.com/ocean_mining/status/1737745210191564958)
     - 'OCEAN Recommended' - Claims to be the best fliter for removing arbitrary data.
     - 'Ordistrspector' - Looser policy the culls inscription based scripts[]
