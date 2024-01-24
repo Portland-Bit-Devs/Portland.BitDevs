@@ -23,13 +23,15 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Requests
 - A guest speaker for March 25 2024
 - Artist / Graphic designed to help with branding and web applications.
-- A ''Portland BitDevs project to rally around.
+- A Portland BitDevs project to rally around.
 
 ### Giveaway
 - [Use Guess the Nonce](https://nonce.portlandbitdevs.com/)
-    - BitBox02
-    - Bitcoin Blend coffee
-    - Bitcoin hat
+    - 2 Tins of Bitcoin Blend coffee
+        - PDXBTC && SHIPBTC for 30% off and free shipping
+    - MOA - Premium Freeze Dried Food
+        - Beef broccoli teriyaki
+        - Spaghetti
 
 ### Schedule
 - **6:30 - 7:00pm:** Arrive, socialize, and grab some food.
@@ -51,7 +53,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
     - No need for OP_CHECKSIGFROMSTACK
 - [Pinning Attacks in V3 still possible - Peter Todd](https://petertodd.org/2023/v3-txs-pinning-vulnerability)
     - Absolute fee still trumps fee rate.
-
+- [YABTCDB - Signed Integer TX Versions](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version/455)
+    - BTCD used a signed integer to represent the transactions version
+    - Responsibly disclosed
+- 
 
 ## Tech news
 - [P2MS (PERMIT_BAREMULTISIG) discussion lockd](https://github.com/bitcoin/bitcoin/pull/28217)
@@ -64,8 +69,15 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
     - Taproot Channel Support
 - OP_CHECKTEMPLATEVERIFY regains community support
     - [Twitter Post Supporting Covenants](https://twitter.com/reardencode/status/1739059702485709212)
-    - [Mailing List - Scaling Lightning with Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021941.html)
-
+    - [Mailing List - Scaling Lightning with Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021941.html)i
+- Nyan Keys Bitcoin Mining Keyboard is actually Fast
+    - 130µ Second Response Time 
+- 
 ## Market News
-- [ETF Outflows from grayscale continure](https://twitter.com/thomas_fahrer/status/1749935401538904437)
-- [ETC Approval did not pump thy bags](https://www.bloomberg.com/news/articles/2024-01-22/bitcoin-slips-back-toward-40-000-as-etf-hype-simmers)
+- [ETF outflows from grayscale continure](https://twitter.com/thomas_fahrer/status/1749935401538904437)
+- [ETF approval did not pump thy bags](https://www.bloomberg.com/news/articles/2024-01-22/bitcoin-slips-back-toward-40-000-as-etf-hype-simmers)
+- [Grayscale outflows continue](https://twitter.com/mononautical/status/1749821386720174460)
+
+## Education
+- [Programming Bitcoin Part 1. Finite Fields](https://twitter.com/PortlandHODL/status/1746731228122976617)
+- [Programming Bitcoin Part 2. Elliptic Curves](https://twitter.com/PortlandHODL/status/1746731228122976617)
