@@ -29,7 +29,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Use Guess the Nonce](https://nonce.portlandbitdevs.com/)
     - 2 Tins of Bitcoin Blend coffee
         - PDXBTC && SHIPBTC for 30% off and free shipping
-    - [MOA - Premium Freeze Dried Food](https://freedomfoods.store/)
+    - [Freedom Foods - Premium Freeze Dried Food](https://freedomfoods.store/)
         - Beef broccoli teriyaki
         - Spaghetti
 
