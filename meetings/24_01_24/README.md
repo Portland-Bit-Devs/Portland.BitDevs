@@ -29,14 +29,13 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Use Guess the Nonce](https://nonce.portlandbitdevs.com/)
     - 2 Tins of Bitcoin Blend coffee
         - PDXBTC && SHIPBTC for 30% off and free shipping
-    - MOA - Premium Freeze Dried Food
+    - [MOA - Premium Freeze Dried Food](https://freedomfoods.store/)
         - Beef broccoli teriyaki
         - Spaghetti
 
 ### Schedule
 - **6:30 - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00 - 7:45:** Member Presentation about [The State of Bitcoin Mining 2023]()
-- **7:45 - 8:30pm:** Join Eric and @PortlandHODL for a Socratic Seminar as they delve into the latest updates on Bitcoin & Lightning (so many current events to talk about!)
+- **7:00 - 8:30pm:** Join Eric and @PortlandHODL for a Socratic Seminar as they delve into the latest updates on Bitcoin & Lightning (so many current events to talk about!)
 - **8:30 - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
@@ -56,7 +55,12 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [YABTCDB - Signed Integer TX Versions](https://delvingbitcoin.org/t/disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version/455)
     - BTCD used a signed integer to represent the transactions version
     - Responsibly disclosed
-- 
+- [Stamps causing sigops limits to be hit](https://twitter.com/mononautical/status/1743274489893282187)
+    - Satoshi counts the sigops on each outpoint not input
+- [Mempool.space Googles Release](https://twitter.com/mononautical/status/1749101242289127439)
+    - Visualized as stripes of packages
+- [Phoenix Wallet v2.1.0](https://www.nobsbitcoin.com/phoenix-wallet-ios-v2-1-0/)
+    - Request inbound liquidity
 
 ## Tech news
 - [P2MS (PERMIT_BAREMULTISIG) discussion lockd](https://github.com/bitcoin/bitcoin/pull/28217)
@@ -71,8 +75,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
     - [Twitter Post Supporting Covenants](https://twitter.com/reardencode/status/1739059702485709212)
     - [Mailing List - Scaling Lightning with Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021941.html)i
 - Nyan Keys Bitcoin Mining Keyboard is actually Fast
-    - 130µ Second Response Time 
-- 
+    - [130µ Second Response Time](https://imgur.com/a/y1hlmqy)
+- [Bitcoin Orange Party Tracker](https://bitcoinorangeparty.com/)
 ## Market News
 - [ETF outflows from grayscale continure](https://twitter.com/thomas_fahrer/status/1749935401538904437)
 - [ETF approval did not pump thy bags](https://www.bloomberg.com/news/articles/2024-01-22/bitcoin-slips-back-toward-40-000-as-etf-hype-simmers)
