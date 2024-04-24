@@ -29,21 +29,13 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:00 - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [Marathon Slipstream M Block](https://cointelegraph.com/news/bitcoin-block-art-marathon)
-    - Why was it done?
-    - Methods of funding / transaction selection
-    - Private mempool implications
-    - Presigned Transaction and not leaking them
-    - Miner theft from an orphan block
-    - Failures modes
-- [Bitcoin Core V27.0rc1](https://bitcoincore.org/bin/bitcoin-core-27.0/test.rc1/)
-    - [Unix Sockets Onion Proxy](https://github.com/bitcoin/bitcoin/pull/27375)
-    - [Whitelist Outbound Peets](https://github.com/bitcoin/bitcoin/pull/27114)
-- [Bitgo Enables RBF](https://blog.bitgo.com/available-now-for-clients-bitgo-introduces-replace-by-fee-f74e2593b245)
-    - Allows users to bump fees on transactions via resigning them.
-- [OP Vault Gets a BIP Number](https://github.com/bitcoin/bips/pull/1421)
-- [Super Testnet Hedgehog - Offline Lightning Payments](https://stacker.news/items/481321)
-- [ViaBTC Invalid Blocks](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/?x)
+- [F2Pool Invalid Block Analysis](https://b10c.me/observations/11-invalid-blocks-783426-and-784121/)
+- [ViaBTC Havling Block Rewards Not Visibale](https://twitter.com/Raybontwo/status/1781543445737419040)
+- [Block 3nm ASIC](https://twitter.com/moneyball/status/1782808288314433995)
+- [Spider Pool Building on Old Templates](https://twitter.com/0xB10C/status/1781477794762965193)
+- [Ocean Templates - 29BTC](https://twitter.com/achow101/status/1781477641280684382)
+- [Marathon Fees +12%](https://twitter.com/theMiningPod/status/1778822943390183855)
+- [LND Fees Overfow Error](https://github.com/lightningnetwork/lnd/issues/8571)
 
 ## Tech news
 - [Zeus 0.8 Released](https://github.com/ZeusLN/zeus/releases/tag/v0.8.0)
