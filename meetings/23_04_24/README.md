@@ -37,6 +37,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Marathon Fees +12%](https://twitter.com/theMiningPod/status/1778822943390183855)
 - [LND Fees Overfow Error](https://github.com/lightningnetwork/lnd/issues/8571)
 - [RaspberryPi 4 Sync Completes](https://twitter.com/PortlandHODL/status/1775331303950615017)
+- [Miners sharing custodian](https://twitter.com/mononautical/status/1777686545715089605)
+- [Outsourced Template Generation](https://twitter.com/0xB10C/status/1780611768081121700)
 
 ## Tech news
 - [Zeus 0.8 Released](https://github.com/ZeusLN/zeus/releases/tag/v0.8.0)
