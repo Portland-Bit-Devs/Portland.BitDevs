@@ -14,11 +14,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - Thank you to everyone who shows up each month!
 
 ### Guess the Nonce is Back
-After some OPs engineering we can now host a raffle without getting rugged!
-#### Guess the Nonce raffle prizes
-  -Bitcoin Blend Coffee
-  -Bitcoin hat
-  -HODLShop Bitcoin Pizza shirt (Medium)
+After some OPs engineering we can now host a raffle without getting rugged! Prizes this week ... 🎉 🎁 😊
+  - Bitcoin Blend Coffee
+  - Bitcoin hat
+  - HODLShop Bitcoin Pizza shirt (Medium)
 
 ### Rules
 - Respect people's privacy
@@ -27,12 +26,14 @@ After some OPs engineering we can now host a raffle without getting rugged!
 
 ### Requests
 - A guest speaker for May 28 2024
-- Artist / Graphic designed to help with branding and web applications.
+- Artist / Graphic designed to help with branding and web applications
+- Revitalize the effort to create our own Portland.BitDevs website
 
 ### Schedule
-- **6:30 - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00 - 8:00pm:** @Colebear - General Mining Discussion  (so many current events to talk about!)
-- **8:00 - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
+- **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
+- **7:00pm - 7:30pm:** Bitcoin Blocks - A deepdive into structure and construction.  
+- **7:30pm - 8:30pm:** Primary topics discussion.
+- **8:00pm - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
 - [F2Pool Invalid Block Analysis](https://b10c.me/observations/11-invalid-blocks-783426-and-784121/)
