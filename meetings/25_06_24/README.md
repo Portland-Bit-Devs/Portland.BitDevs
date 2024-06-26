@@ -40,6 +40,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - **8:00pm - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
+- [Testnet 4 PR](https://bitcoincore.reviews/29775)
 - [Mechanics Statement of Bitmain Firmware Being Comprimised](https://youtu.be/7fdgqbGy2gg?t=510)
 - [Bitcoin Core Upated Security Disclosure Policy](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
 - [PoW Signet Faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937/2)
