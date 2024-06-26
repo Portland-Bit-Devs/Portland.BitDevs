@@ -29,6 +29,10 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - Artist / Graphic designed to help with branding and web applications
 - Revitalize the effort to create our own Portland.BitDevs website
 
+### Slides
+[Google Slidedeck Bitcoin Blocks](https://docs.google.com/presentation/d/1Ff8zjaY-6GvCRhyODs5eMZozosbHZKo0ZRHtvk1h558/edit?usp=sharing)
+
+
 ### Schedule
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
 - **7:00pm - 7:30pm:** Bitcoin Blocks - A deepdive into structure and construction.  
@@ -36,11 +40,11 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - **8:00pm - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [F2Pool Invalid Block Analysis](https://b10c.me/observations/11-invalid-blocks-783426-and-784121/)
-- [ViaBTC Havling Block Rewards Not Visibale](https://twitter.com/Raybontwo/status/1781543445737419040)
-- [Block 3nm ASIC](https://twitter.com/moneyball/status/1782808288314433995)
-- [Spider Pool Building on Old Templates](https://twitter.com/0xB10C/status/1781477794762965193)
-- [Ocean Templates - 29BTC](https://twitter.com/achow101/status/1781477641280684382)
+- [Mechanics Statement of Bitmain Firmware Being Comprimised](https://youtu.be/7fdgqbGy2gg?t=510)
+- [Bitcoin Core Upated Security Disclosure Policy](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
+- [PoW Signet Faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937/2)
+- [Compressed Transactions - BIP337](https://github.com/bitcoin/bips/blob/master/bip-0337.mediawiki)
+- [Miniscript BIP proposed text](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
 - [Marathon Fees +12%](https://twitter.com/theMiningPod/status/1778822943390183855)
 - [LND Fees Overfow Error](https://github.com/lightningnetwork/lnd/issues/8571)
 - [RaspberryPi 4 Sync Completes](https://twitter.com/PortlandHODL/status/1775331303950615017)
@@ -48,7 +52,5 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [Outsourced Template Generation](https://twitter.com/0xB10C/status/1780611768081121700)
 
 ## Tech news
-- [Zeus 0.8 Released](https://github.com/ZeusLN/zeus/releases/tag/v0.8.0)
-    - OLYMPUS by ZEUS 0-conf channel service
-    - Zaplocker self-custodial lightning addresses
-    - Taproot Channel Support
+- [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
+- 
