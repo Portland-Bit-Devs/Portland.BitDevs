@@ -39,18 +39,15 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Bitcoin Dev News
 
-- [Testnet 4 PR](https://bitcoincore.reviews/29775)
 - [Mechanics Statement of Bitmain Firmware Being Comprimised](https://youtu.be/7fdgqbGy2gg?t=510)
 - [Bitcoin Core Upated Security Disclosure Policy](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
 - [PoW Signet Faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937/2)
 - [Compressed Transactions - BIP337](https://github.com/bitcoin/bips/blob/master/bip-0337.mediawiki)
 - [Miniscript BIP proposed text](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
 - [Bitcoin Core v27.1 Released](https://www.nobsbitcoin.com/bitcoin-core-v27-1/)
-- [BitAxe Supra Released with S21 ICs](https://www.nobsbitcoin.com/bitaxe-supra/)
 - [Orphans and Forks Week](https://x.com/0xB10C)
 - [Dual Mempools and SigOps](https://x.com/mononautical/status/1799874506426647009)
 - [LND and Onion Bombs Vuln.](https://www.nobsbitcoin.com/lnd-versions-prior-to-v0-17-0-vulnerable-to-lnd-onion-bomb-dos-attack/)
-- [RaspberryPi 4 Sync Completes](https://twitter.com/PortlandHODL/status/1775331303950615017)
 - [Miners sharing custodian](https://twitter.com/mononautical/status/1777686545715089605)
 - [Outsourced Template Generation](https://twitter.com/0xB10C/status/1780611768081121700)
 
@@ -59,6 +56,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [50,000 MT. Gox Coins distributed at .16 ratio](https://x.com/SimplyBitcoinTV/status/1815836464334389633)
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
+- [Swan Cuts Staff and Likely Shuttering Managed Mining](https://x.com/coryklippsten/status/1815429462210539706)
 - [The Most Interesting Transaction in the World](https://x.com/vostrnad/status/1810024272049705168)
 
 ## Tech news
