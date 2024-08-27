@@ -67,7 +67,14 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Improve TV View to add new circular clock face view
 - ['Dark Skippy' Attack](https://cointelegraph.com/learn/dark-skippy-attack-how-to-protect-against-it)
   - [Demo](https://darkskippy.com/)
-
+- [Slipstream OP_CAT](https://mempool.space/tx/51bae58fa9d413b86d74da60d5366987dcdeb0586d39b93b2ca22f9e40dc83de?mode=details)
+  - Not actually valid
+  - OP_SUCCESSx [BIP342](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki)
+  - Makes scipts unconditionally valid as such anyone can spend.
+  - Could cause forks?
+  - Retroactive enforcements of rules burden devs.
+  - Roles of "Dev Hooks"
+  - IRC discussion with GMAXWELL [IRC weblogs](https://bitcoin-irc.chaincode.com/bitcoin-core-dev/2024-08-11)
 ## Bitcoin News
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Blue Wallet v7.0 [1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
