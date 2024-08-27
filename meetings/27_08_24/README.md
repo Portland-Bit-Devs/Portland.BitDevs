@@ -62,9 +62,16 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
+- [Blue Wallet v7.0[1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
+  - Added total balance to the overview screen
+  - Ability to disable phone privacy blur
+  - iOS lock screen widgets
+  - [BIP47 Address Support](https://medium.com/@ottosch/how-bip47-works-ee641cc14bf3) - Still needs an onchain TXN for payment code.
+-
 
 ## Tech News
 
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
+- [Telegram Founder Arrested - France](https://x.com/Zlatti_71/status/1828529272539304278)
 
 - [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
