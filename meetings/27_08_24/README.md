@@ -35,6 +35,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Bitcoin Dev News
 
 - [Intel SGX Compromised](https://x.com/_markel___/status/1828112469010596347)
+  - Not completely comprimised but master private key and sealing key both comprimised
+  - Path forward to completely comprimising the SGX
+  - SGX is no longer offered in desktop class processors, only Xeons
+  - Used in cloud environments to hide information
+  - Currently arm Secure Enclave ramins superior
 - [Testnet 4 PR Merged](https://bitcoincore.reviews/29775)
 - [5G Base Station Exploit](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
 - [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
