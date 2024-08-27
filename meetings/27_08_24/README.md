@@ -36,12 +36,35 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 - [Intel SGX Compromised](https://x.com/_markel___/status/1828112469010596347)
 - [Testnet 4 PR Merged](https://bitcoincore.reviews/29775)
+- [5G Base Station Exploit](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
+- [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
+- Mempool [v3.0.0](https://github.com/mempool/mempool/releases/tag/v3.0.0)
+  - Add Mempool Accelerator™ to accelerate TX from your own instance
+  - Add Mempool Googles™ new mempool and blockchain analytics tool
+  - Add RBF Timeline visualizations including support for FullRBF
+  - Add CPFP and Effective Fee calculations in block visualizations
+  - Add Liquid Network audit tool to verify holdings vs liabilities
+  - Add new Wallet Balance widget for embedding into external sites
+  - Add customizable CSS themes including a new high-contrast mode
+  - Add optional support for FreecurrencyAPI fiat currencies
+  - Add optional Redis support for faster in-memory database
+  - Add support for legacy P2PK addresses and outputs
+  - Add new block fees graph at /graphs/mining/block-fees
+  - Add new fiat calculator at /tools/calculator
+  - Re-design transaction page with new mobile "pizza tracker" UI
+  - Re-design address page with new balance history over time
+  - Improve Block Audit for accelerated transaction out-of-band fees
+  - Improve Websocket API to support tracking multiple addresses
+  - Improve search box now supports searching multiple networks
+  - Improve TV View to add new circular clock face view
 
-## Bitcoin news
+## Bitcoin News
 
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 
-## Tech news
+## Tech News
+
+- [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 
 - [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
