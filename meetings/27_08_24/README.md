@@ -67,6 +67,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Improve TV View to add new circular clock face view
 - ['Dark Skippy' Attack](https://cointelegraph.com/learn/dark-skippy-attack-how-to-protect-against-it)
   - [Demo](https://darkskippy.com/)
+  - [Pollards Rho (kangaroo)](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm)
+  - [Visual of the power of Pollards Rho for breaking DLP](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
 - [Slipstream OP_CAT](https://mempool.space/tx/51bae58fa9d413b86d74da60d5366987dcdeb0586d39b93b2ca22f9e40dc83de?mode=details)
   - Not actually valid
   - OP_SUCCESSx [BIP342](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki)
