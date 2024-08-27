@@ -81,3 +81,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Telegram Founder Arrested - France](https://x.com/Zlatti_71/status/1828529272539304278)
 
 - [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
+
+## Figures
+### Timestamp vs MTP
+![image](https://github.com/user-attachments/assets/075a55c8-af89-4430-bbbf-d20db07d8d63)
