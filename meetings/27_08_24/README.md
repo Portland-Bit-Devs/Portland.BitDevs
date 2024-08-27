@@ -57,17 +57,23 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Improve Websocket API to support tracking multiple addresses
   - Improve search box now supports searching multiple networks
   - Improve TV View to add new circular clock face view
+- ['Dark Skippy' Attack](https://cointelegraph.com/learn/dark-skippy-attack-how-to-protect-against-it)
+  - [Demo](https://darkskippy.com/)
 
 ## Bitcoin News
 
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
-- [Blue Wallet v7.0[1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
+- [Blue Wallet v7.0 [1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
   - Added total balance to the overview screen
   - Ability to disable phone privacy blur
   - iOS lock screen widgets
   - [BIP47 Address Support](https://medium.com/@ottosch/how-bip47-works-ee641cc14bf3) - Still needs an onchain TXN for payment code.
--
+- [Bisq 2.1.0 Released](https://github.com/bisq-network/bisq2/releases/tag/v2.1.0)
+  - Support Lightning Network as a settlement method.
+  - Better visualizations
+- [Bitcoin Core 28.0 Release Notes](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Notes-Draft)
+- [A better timewarp attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062/12)
 
 ## Tech News
 
