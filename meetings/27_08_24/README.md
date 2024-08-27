@@ -69,8 +69,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - [Demo](https://darkskippy.com/)
 
 ## Bitcoin News
-
-- [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Blue Wallet v7.0 [1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
   - Added total balance to the overview screen
@@ -84,10 +82,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [A better timewarp attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062/12)
 
 ## Tech News
-
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 - [Telegram Founder Arrested - France](https://x.com/Zlatti_71/status/1828529272539304278)
-
 - [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
 
 ## Figures
