@@ -42,6 +42,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Currently arm Secure Enclave ramins superior
 - [Testnet 4 PR Merged](https://bitcoincore.reviews/29775)
   - Attempt was made to fix the 20 minute blockstoms / timewarp - [here](https://github.com/bitcoin/bitcoin/blob/3714692644f45808a6480525abc36870aeee1de4/src/pow.cpp#L32)
+  - Most fixes were to fix the issues with blockstroms / timewarp - [here](https://blog.lopp.net/griefing-bitcoin-testnet/)
 - [5G Base Station Exploit](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
 - [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
 - Mempool [v3.0.0](https://github.com/mempool/mempool/releases/tag/v3.0.0)
