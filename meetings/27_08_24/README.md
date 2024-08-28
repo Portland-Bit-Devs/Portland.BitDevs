@@ -96,5 +96,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
 
 ## Figures
-### Timestamp vs MTP
+### Timestamp vs MTP - Mainnet
 ![image](https://github.com/user-attachments/assets/075a55c8-af89-4430-bbbf-d20db07d8d63)
+### Timestamp Vs MTP - Tesntnet
+![image](https://github.com/user-attachments/assets/b699d8fe-425f-43fd-87da-facd70c512fb)
+
+
+
