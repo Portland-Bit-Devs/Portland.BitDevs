@@ -90,6 +90,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Better visualizations
 - [Bitcoin Core 28.0 Release Notes](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Notes-Draft)
 - [A better timewarp attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062/12)
+- [Coldcard PushTX](https://github.com/Coldcard/push-tx)
 
 ## Tech News
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
