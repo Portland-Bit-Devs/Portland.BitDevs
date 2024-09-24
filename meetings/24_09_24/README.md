@@ -1,7 +1,7 @@
 ---
 date: '2024-08-24'
 type: Doc/
-title: "27 August 2024 PDX BitDevs"
+title: "23 September 2024 PDX BitDevs"
 ---
 
 ## Announcements
@@ -22,7 +22,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Requests
 
-- A guest speaker for September 28 2024
+- A guest speaker for October 22 2024
 - Artist / Graphic designer to help with branding and web applications.
 - Continue to improve the Portland BitDevs web experience.
 
@@ -62,7 +62,9 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ## Bitcoin News
 
-- [Mempool.space Block Time Analysis](https://research.mempool.space/p/09defe3d-c836-44e7-b244-7f8434e72151/)
+- [Strike adds BOLT12 support](https://strike.me/blog/bolt12-offers/)
+  - Bolt12 is overall a 'Better' solution to static payment addresses in lightning
+  - No need to setup and maintain a webserver   
 - Smaller Pools seemingly keep better precision han the larger pools.
 - [BitAxe wins a block | I was wrong but still right](https://cointelegraph.com/news/tiny-500gh-home-bitcoin-mining-device-produced-a-block-earning-over-200k-btc)
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
