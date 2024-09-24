@@ -70,6 +70,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - [Downward Difficulty](https://mempool.space/)
 - [Transactions Lower than 2 sats/vByte were clearing](https://x.com/mononautical/status/1837463728381424097)
 - [Merge Mining becoming less popular | STATS](https://x.com/mempoolresearch/status/1837147992287056315)
+- [Calculating your Solo Mining Odds](https://solochance.com/)
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Blue Wallet v7.0 [1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
