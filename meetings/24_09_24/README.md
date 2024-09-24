@@ -87,3 +87,4 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Tech News
 - [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
+- [Caroline Ellison of FTX gets 24 Months](https://x.com/unusual_whales/status/1838670005795459205)
