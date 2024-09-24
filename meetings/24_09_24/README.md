@@ -42,28 +42,22 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Alerted by NickH from Luxor something was wrong.
   - Added MARA hash an resolved the fork.
 - [Mining Pool Similarities](https://b10c.me/observations/12-template-similarity/)
-- [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
-- Mempool [v3.0.0](https://github.com/mempool/mempool/releases/tag/v3.0.0)
-  - Add Mempool Accelerator™ to accelerate TX from your own instance
-  - Add Mempool Googles™ new mempool and blockchain analytics tool
-  - Add RBF Timeline visualizations including support for FullRBF
-  - Add CPFP and Effective Fee calculations in block visualizations
-  - Add Liquid Network audit tool to verify holdings vs liabilities
-  - Add new Wallet Balance widget for embedding into external sites
-  - Add customizable CSS themes including a new high-contrast mode
-  - Add optional support for FreecurrencyAPI fiat currencies
-  - Add optional Redis support for faster in-memory database
-  - Add support for legacy P2PK addresses and outputs
-  - Add new block fees graph at /graphs/mining/block-fees
-  - Add new fiat calculator at /tools/calculator
-  - Re-design transaction page with new mobile "pizza tracker" UI
-  - Re-design address page with new balance history over time
-  - Improve Block Audit for accelerated transaction out-of-band fees
-  - Improve Websocket API to support tracking multiple addresses
-  - Improve search box now supports searching multiple networks
-  - Improve TV View to add new circular clock face view
-- ['Dark Skippy' Attack](https://cointelegraph.com/learn/dark-skippy-attack-how-to-protect-against-it)
-  - [Demo](https://darkskippy.com/)
+- Floresta [v0.6.0](https://github.com/vinteumorg/Floresta/releases/tag/0.6.0)
+	- Expose some unexposed values for jsonrpc: Lets the user select between getting a serialized block or a json
+	- Bring our functional tests to life: attempts to build some basis for the Python-based tests
+	- Async add new address to electrum: Now, if you subscribe to an address that we don't follow yet, we'll start following it
+	- Implement tagged hashes for the leafhashes: This futures-proof the leaf commitment scheme from future modifications of the committed data, and it's now part of the utreexo protocol
+	- Connect cli option: This option lets you connect exclusively to one specific node, given its IP address
+	- Rework internal node structure: Use our actors model to build optmized nodes for each phase of the startup process
+	- Add AssumeValidArg enum and correct verify_script: This adds a new AssumeValidArg to make communicating the desired assume-valid more ergonomic
+	- Add batch request for electrum: Now electrum lets users perform multiple requests at once, rather than sending one at the time
+	- Add PoW fraud proof: Implement pow fraud proofs for our node and enable it on signet for testing
+	- Log to file: Now you can write the logs to a file
+	- Add lib.rs: florestad is also a lib now, it can be used on other applications and
+	- Download and store filters from the network: Now we can download BIP-158 Compact Block Filters and use them to recover historical transactions without downloading the whole blockchain.
+	- Cache headers on ibd: Hold headers in memory and save all-at-once, because the database can optimize some writing operations
+	- electrum: new experimental electrum endpoints: This adds some experimental (and not used by any wallet) endpoints to the electrum server blockchain.scriptpubkey
+	- Nixify: Add a nix-based build system and some developer tools to floresta
 
 ## Bitcoin News
 
@@ -74,7 +68,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Shitcoin disguised as L2 uses SHA256D
   - Not merged mined has absorbed 15EX/s
   - [Downward Difficulty](https://mempool.space/)
-- [BitAxe wins a block | I was wrong but still right](https://cointelegraph.com/news/tiny-500gh-home-bitcoin-mining-device-produced-a-block-earning-over-200k-btc)
+- [Transactions Lower than 2 sats/vByte were clearing](https://x.com/mononautical/status/1837463728381424097)
+- [Merge Mining becoming less popular | STATS](https://x.com/mempoolresearch/status/1837147992287056315)
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Blue Wallet v7.0 [1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
@@ -90,8 +85,5 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - [MTP visualizations Ex. Script](https://gist.github.com/russeree/795e961d4f9870c299a596ce0634e9fa)
 
 ## Tech News
-
+- [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
-- [Telegram Founder Arrested - France](https://x.com/Zlatti_71/status/1828529272539304278)
-
-- [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
