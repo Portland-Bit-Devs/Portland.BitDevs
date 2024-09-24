@@ -66,7 +66,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Strike adds BOLT12 support](https://strike.me/blog/bolt12-offers/)
   - Bolt12 is overall a 'Better' solution to static payment addresses in lightning
   - No need to setup and maintain a webserver   
-- Smaller Pools seemingly keep better precision han the larger pools.
+- [Fractal Bitcoin - 13EX/s from Bitcoin Mainnet](https://explorer.unisat.io/fractal-mainnet/mining)
+  - Shitcoin disguised as L2 uses SHA256D
+  - Not merged mined has absorbed 15EX/s
+  - [Downward Difficulty](https://mempool.space/)
 - [BitAxe wins a block | I was wrong but still right](https://cointelegraph.com/news/tiny-500gh-home-bitcoin-mining-device-produced-a-block-earning-over-200k-btc)
 - [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
