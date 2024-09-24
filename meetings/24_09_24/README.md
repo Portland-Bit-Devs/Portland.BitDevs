@@ -41,7 +41,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Forked Testnet4.
   - Alerted by NickH from Luxor something was wrong.
   - Added MARA hash an resolved the fork.
-- [5G Base Station Exploit](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
+- [Mining Pool Similarities](https://b10c.me/observations/12-template-similarity/)
 - [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
 - Mempool [v3.0.0](https://github.com/mempool/mempool/releases/tag/v3.0.0)
   - Add Mempool Accelerator™ to accelerate TX from your own instance
