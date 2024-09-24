@@ -33,8 +33,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:00pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-
-- [Intel SGX Compromised](https://x.com/_markel___/status/1828112469010596347)
+- 
+- [Bolt12 Added to Bolts Repo](https://github.com/lightning/bolts/blob/master/12-offer-encoding.md)
 - [Testnet 4 PR Merged](https://bitcoincore.reviews/29775)
 - [5G Base Station Exploit](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
 - [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
