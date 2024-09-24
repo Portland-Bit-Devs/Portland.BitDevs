@@ -36,7 +36,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Bitcoin Dev News
 - 
 - [Bolt12 Added to Bolts Repo](https://github.com/lightning/bolts/blob/master/12-offer-encoding.md)
-- [Testnet 4 PR Merged](https://bitcoincore.reviews/29775)
+- [Testnet 4 Consensus Failure](https://github.com/bitcoin/bitcoin/issues/30786)
+  - Timewarp mitigation strategy to reduce block forward time from 3200s to 600s.
+  - Forked Testnet4.
+  - Alerted by NickH from Luxor something was wrong.
+  - Added MARA hash an resolved the fork.
 - [5G Base Station Exploit](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
 - [AMD Sinkclose Flaw](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
 - Mempool [v3.0.0](https://github.com/mempool/mempool/releases/tag/v3.0.0)
