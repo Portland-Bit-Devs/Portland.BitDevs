@@ -1,7 +1,7 @@
 ---
 date: '2024-08-24'
 type: Doc/
-title: "23 September 2024 PDX BitDevs"
+title: "24 September 2024 PDX BitDevs"
 ---
 
 ## Announcements
@@ -89,3 +89,4 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 - [Caroline Ellison of FTX gets 24 Months](https://x.com/unusual_whales/status/1838670005795459205)
 - [Bitcoin Miner Shutting Down Results in 20% Higher Electricity Costs](https://www.nobsbitcoin.com/norway-bitcoin-mining-facility-shutdown-leads-to-20-higher-energy-bills-for-town-residents/)
+- [Starkware OP_CAT Bounty](https://groups.google.com/g/bitcoindev/c/awBtvpXKBcw)
