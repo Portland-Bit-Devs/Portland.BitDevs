@@ -58,6 +58,9 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 	- Cache headers on ibd: Hold headers in memory and save all-at-once, because the database can optimize some writing operations
 	- electrum: new experimental electrum endpoints: This adds some experimental (and not used by any wallet) endpoints to the electrum server blockchain.scriptpubkey
 	- Nixify: Add a nix-based build system and some developer tools to floresta
+ - [ARC Transaction Performed on Bitcoin Mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
+   -[Spec](https://ark-protocol.org/)
+ - [Bitcoin Core < 24.0.1 DoS](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
 
 ## Bitcoin News
 
@@ -71,21 +74,17 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Transactions Lower than 2 sats/vByte were clearing](https://x.com/mononautical/status/1837463728381424097)
 - [Merge Mining becoming less popular | STATS](https://x.com/mempoolresearch/status/1837147992287056315)
 - [Calculating your Solo Mining Odds](https://solochance.com/)
-- [Bitcoin Core EoL Security Disclosures](https://bitcoincore.org/en/blog/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Blue Wallet v7.0 [1,2] Released](https://github.com/BlueWallet/BlueWallet/releases/tag/v7.0.2)
   - Added total balance to the overview screen
   - Ability to disable phone privacy blur
   - iOS lock screen widgets
   - [BIP47 Address Support](https://medium.com/@ottosch/how-bip47-works-ee641cc14bf3) - Still needs an onchain TXN for payment code.
-- [Bisq 2.1.0 Released](https://github.com/bisq-network/bisq2/releases/tag/v2.1.0)
-  - Support Lightning Network as a settlement method.
-  - Better visualizations
 - [Bitcoin Core 28.0 Release Notes](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Notes-Draft)
-- [A better timewarp attack](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062/12)
-  - [MTP visualizations Ex. Script](https://gist.github.com/russeree/795e961d4f9870c299a596ce0634e9fa)
-
+- [Eric | SuperScalar Proposal](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
+  
 ## Tech News
 - [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
 - [Hackers Leak 2.7 Billion Data Records (SSNs, Addresses)](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 - [Caroline Ellison of FTX gets 24 Months](https://x.com/unusual_whales/status/1838670005795459205)
+- [Bitcoin Miner Shutting Down Results in 20% Higher Electricity Costs](https://www.nobsbitcoin.com/norway-bitcoin-mining-facility-shutdown-leads-to-20-higher-energy-bills-for-town-residents/)
