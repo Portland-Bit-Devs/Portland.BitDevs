@@ -82,6 +82,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - [BIP47 Address Support](https://medium.com/@ottosch/how-bip47-works-ee641cc14bf3) - Still needs an onchain TXN for payment code.
 - [Bitcoin Core 28.0 Release Notes](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Notes-Draft)
 - [Eric | SuperScalar Proposal](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
+- [Sparrow 2.0 Released](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
   
 ## Tech News
 - [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
