@@ -26,6 +26,12 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - Artist / Graphic designer to help with branding and web applications.
 - Continue to improve the Portland BitDevs web experience.
 
+### Guess the Nonce
+- T-Shirt
+- Bitcoin Coffee
+- Pack of Pleb Cards
+- Pack of Pleb Cards
+
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
