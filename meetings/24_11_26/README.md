@@ -1,7 +1,7 @@
 ---
 date: '2024-08-24'
 type: Doc/
-title: "24 September 2024 PDX BitDevs"
+title: "26 November 2024 PDX BitDevs"
 ---
 
 ## Announcements
@@ -13,6 +13,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Special Thanks | Mentions
 
 - Thank you to everyone who shows up each month!
+- æon for the presentation about MemPal!
 
 ### Rules
 
@@ -22,20 +23,17 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Requests
 
-- A guest speaker for October 22 2024
+- A guest speaker for December 24 2024
 - Artist / Graphic designer to help with branding and web applications.
 - Continue to improve the Portland BitDevs web experience.
 
 ### Guess the Nonce
 - T-Shirt
-- Bitcoin Coffee
-- Pack of Pleb Cards
-- Pack of Pleb Cards
 
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:30pm:** Guest Speaker: Jestopher - BancoLibre Demo
+- **7:00pm - 7:30pm:** Guest Speaker: æon 
 - **7:30pm - 8:30pm:** Primary topics discussion.
 - **8:00pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
