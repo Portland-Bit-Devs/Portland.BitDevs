@@ -50,7 +50,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Mining Pool Similarities](https://b10c.me/observations/12-template-similarity/)
 - [ARC Transaction Performed on Bitcoin Mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
   -[Spec](https://ark-protocol.org/)
-- [Bitcoin Core < 24.0.1 DoS](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
+- [Bitcoin Core < 24.0.1 DoS](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
 
 ## Bitcoin News
 
