@@ -51,6 +51,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [ARC Transaction Performed on Bitcoin Mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
   -[Spec](https://ark-protocol.org/)
 - [Bitcoin Core < 24.0.1 DoS](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
+  - [0xB10C Graphs and Analysis ](https://x.com/0xB10C/status/1844705899455062220)
 
 ## Bitcoin News
 
