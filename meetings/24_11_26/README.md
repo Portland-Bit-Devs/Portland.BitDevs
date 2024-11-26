@@ -38,33 +38,19 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:00pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- 
-- [Bolt12 Added to Bolts Repo](https://github.com/lightning/bolts/blob/master/12-offer-encoding.md)
-- [Testnet 4 Consensus Failure](https://github.com/bitcoin/bitcoin/issues/30786)
-  - Timewarp mitigation strategy to reduce block forward time from 3200s to 600s.
-  - Forked Testnet4.
-  - Alerted by NickH from Luxor something was wrong.
-  - Added MARA hash an resolved the fork.
+- [Colliderscript](https://bitcoinmagazine.com/technical/colliderscript-a-50m-bitcoin-covenant-with-no-new-opcodes)
+  - Covenants without OP_CODES
+  - Uses SHA1 Verification
+- [Testnet 4 Unminable](https://x.com/OrangeSurfBTC/status/1859865603907125305)
+  - Software miners exploiting deficulty adjustments (20 minute rule)
+  - Drops difficulty to 1
+  - ASIC mining software cant handle this rule so they still mine at regular dificulty
+- [Bitcoin Script Stack Viewer NVim](https://x.com/t4t5/status/1861066474623782959)
+  - Using Rust Bitcoin Lib with NVim you can view the stack elements as you code  
 - [Mining Pool Similarities](https://b10c.me/observations/12-template-similarity/)
-- Floresta [v0.6.0](https://github.com/vinteumorg/Floresta/releases/tag/0.6.0)
-	- Expose some unexposed values for jsonrpc: Lets the user select between getting a serialized block or a json
-	- Bring our functional tests to life: attempts to build some basis for the Python-based tests
-	- Async add new address to electrum: Now, if you subscribe to an address that we don't follow yet, we'll start following it
-	- Implement tagged hashes for the leafhashes: This futures-proof the leaf commitment scheme from future modifications of the committed data, and it's now part of the utreexo protocol
-	- Connect cli option: This option lets you connect exclusively to one specific node, given its IP address
-	- Rework internal node structure: Use our actors model to build optmized nodes for each phase of the startup process
-	- Add AssumeValidArg enum and correct verify_script: This adds a new AssumeValidArg to make communicating the desired assume-valid more ergonomic
-	- Add batch request for electrum: Now electrum lets users perform multiple requests at once, rather than sending one at the time
-	- Add PoW fraud proof: Implement pow fraud proofs for our node and enable it on signet for testing
-	- Log to file: Now you can write the logs to a file
-	- Add lib.rs: florestad is also a lib now, it can be used on other applications and
-	- Download and store filters from the network: Now we can download BIP-158 Compact Block Filters and use them to recover historical transactions without downloading the whole blockchain.
-	- Cache headers on ibd: Hold headers in memory and save all-at-once, because the database can optimize some writing operations
-	- electrum: new experimental electrum endpoints: This adds some experimental (and not used by any wallet) endpoints to the electrum server blockchain.scriptpubkey
-	- Nixify: Add a nix-based build system and some developer tools to floresta
- - [ARC Transaction Performed on Bitcoin Mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
-   -[Spec](https://ark-protocol.org/)
- - [Bitcoin Core < 24.0.1 DoS](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
+- [ARC Transaction Performed on Bitcoin Mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
+  -[Spec](https://ark-protocol.org/)
+- [Bitcoin Core < 24.0.1 DoS](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
 
 ## Bitcoin News
 
