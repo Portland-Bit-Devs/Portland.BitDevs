@@ -68,7 +68,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Sparrow 2.0 Released](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
 - [Microstratgey Buys 5.4B USB of Bitcoin](https://cointelegraph.com/news/microstrategy-expands-bitcoin-holdings-5-4b-purchase)
 - [Portland.HODL OP_NEXT Talk about Bitcoin Soft Forks](https://x.com/blockspacepod/status/1856411618172620940)
-- BCAP - 
+- [BCAP - Analyzing Bitcoin Consensus](https://github.com/bitcoin-cap/bcap#recommendations)
   
 ## Tech News
 - [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
