@@ -44,7 +44,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Testnet 4 Unminable](https://x.com/OrangeSurfBTC/status/1859865603907125305)
   - Software miners exploiting deficulty adjustments (20 minute rule)
   - Drops difficulty to 1
-  - ASIC mining software cant handle this rule so they still mine at regular dificulty
+  - ASIC mining software cant handle this rule so they still mine at regular difficulty
 - [Bitcoin Script Stack Viewer NVim](https://x.com/t4t5/status/1861066474623782959)
   - Using Rust Bitcoin Lib with NVim you can view the stack elements as you code  
 - [Bitcoin Core < v25.0 DoS __inv-to-send sets__](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
@@ -64,9 +64,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Calculating your Solo Mining Odds](https://solochance.com/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Sparrow 2.0 Released](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
-- [Microstratgey Buys 5.4B USB of Bitcoin](https://cointelegraph.com/news/microstrategy-expands-bitcoin-holdings-5-4b-purchase)
+- [Microstratgey Buys 5.4B USD of Bitcoin](https://cointelegraph.com/news/microstrategy-expands-bitcoin-holdings-5-4b-purchase)
 - [Portland.HODL OP_NEXT Talk about Bitcoin Soft Forks](https://x.com/blockspacepod/status/1856411618172620940)
 - [BCAP - Analyzing Bitcoin Consensus](https://github.com/bitcoin-cap/bcap#recommendations)
+- [US Court of Appeals Rules Tornado Cash Sanctions Unconstitutional](https://x.com/Cointelegraph/status/1861557530050339276)
   
 ## Tech News
 - [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
