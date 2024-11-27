@@ -61,6 +61,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Atowns Signet Usage Report](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet/1257/6)
 - [Sparrow Wallet 2.0 Released](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
 - [libsecp256k1 v0.6.0 Released](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.6.0)
+- [Gloria Zhao - TABConf TRUC TX modified in flight](https://mempool.space/tx/56ef7ea4110eb595bf020d4121a2c31fe35f54d9c4759d1e1c94b82fdac5a193)
 
 ## Bitcoin News
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
