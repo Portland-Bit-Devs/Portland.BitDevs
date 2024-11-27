@@ -63,8 +63,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [libsecp256k1 v0.6.0 Released](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.6.0)
 
 ## Bitcoin News
-- [Merge Mining becoming less popular | STATS](https://x.com/mempoolresearch/status/1837147992287056315)
-- [Calculating your Solo Mining Odds](https://solochance.com/)
 - [0xB10C Mining Pool Game Theory During Forks](https://x.com/0xB10C/status/1811390920744468502)
 - [Sparrow 2.0 Released](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
 - [Microstratgey Buys 5.4B USD of Bitcoin](https://cointelegraph.com/news/microstrategy-expands-bitcoin-holdings-5-4b-purchase)
