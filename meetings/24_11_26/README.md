@@ -39,6 +39,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:00pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
+- [Bitcoin Core Disables Full RBF](https://github.com/bitcoin/bitcoin/pull/30592)
 - [Colliderscript](https://bitcoinmagazine.com/technical/colliderscript-a-50m-bitcoin-covenant-with-no-new-opcodes)
   - Covenants without OP_CODES
   - Uses SHA1 Verification
