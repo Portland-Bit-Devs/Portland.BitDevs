@@ -49,7 +49,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - ASIC mining software cant handle this rule so they still mine at regular difficulty
 - [Bitcoin Script Stack Viewer NVim](https://x.com/t4t5/status/1861066474623782959)
   - Using Rust Bitcoin Lib with NVim you can view the stack elements as you code  
-- [Bitcoin Core < v25.0 DoS __inv-to-send sets__](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
+- [Bitcoin Core < v25.0 DoS __inv-to-send sets__](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
   - [0xB10C Graphs and Analysis ](https://x.com/0xB10C/status/1844705899455062220)
 - [Cluster Mempool Overview By @murchandamus ](https://x.com/murchandamus/status/1854678133896626293)
 - [Metaprotocol Runes Fee Round Trip Mempool View](https://x.com/mononautical/status/1851830349208363379)
