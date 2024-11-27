@@ -57,6 +57,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - My thoughs about using and modifying Datum
 - [Ocean Hits 4EH/s](https://x.com/denverbitcoin/status/1854184399593480302)
 - [Atowns Signet Usage Report](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet/1257/6)
+- [Sparrow Wallet 2.0 Released](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
 
 ## Bitcoin News
 - [Merge Mining becoming less popular | STATS](https://x.com/mempoolresearch/status/1837147992287056315)
