@@ -71,3 +71,5 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Rust Bitcoin Course Now Free](https://btcdemy.thinkific.com/)
 - [Bitcoin Miner Shutting Down Results in 20% Higher Electricity Costs](https://www.nobsbitcoin.com/norway-bitcoin-mining-facility-shutdown-leads-to-20-higher-energy-bills-for-town-residents/)
 - [Starkware OP_CAT Bounty](https://groups.google.com/g/bitcoindev/c/awBtvpXKBcw)
+- [CoinKite Black Friday](https://store.coinkite.com/store)
+- [Bitkey $99](https://bitkey.world)
