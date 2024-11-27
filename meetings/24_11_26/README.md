@@ -29,6 +29,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Guess the Nonce
 - T-Shirt
+- The Fiat Standard - Saif
 
 ### Schedule
 
