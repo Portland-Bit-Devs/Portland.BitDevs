@@ -47,3 +47,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 - [BADRam Attack](https://www.reddit.com/r/hardware/comments/1hbc4pw/amd_secure_vm_tech_undone_by_dram_meddling/)
   - Spoofs double size RAM so that when the user writes a single known bit the other bit can be discovered.
+- [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
+  - Learn a lot more about what make LLVM tick under the hood and what is next
+  - Very nice video about LLVM ❤️ Rust
