@@ -36,8 +36,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:30pm:** Guest Speaker: Jestopher - BancoLibre Demo
-- **7:30pm - 8:30pm:** Primary topics discussion.
+- **7:00pm - 8:30pm:** Primary topics discussion.
 - **8:00pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
@@ -45,3 +44,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Bitcoin News
 
 ## Tech News
+
+- [BADRam Attack](https://www.reddit.com/r/hardware/comments/1hbc4pw/amd_secure_vm_tech_undone_by_dram_meddling/)
+  - Spoofs double size RAM so that when the user writes a single known bit the other bit can be discovered.
