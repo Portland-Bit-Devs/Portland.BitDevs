@@ -48,6 +48,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Ascisco - Bitcoin Mining Types](https://x.com/aeonBTC/status/1866941104320553177)
 - [John Carvhalo - Sats = Bitcoin BIP](https://x.com/BitcoinErrorLog/status/1867597672363806995)
   - [Actual repo](https://github.com/BitcoinAndLightningLayerSpecs/balls/blob/main/BIP%2021Q.md)
+- [Foundation Prime PSP](https://www.youtube.com/watch?v=0TjuC4NVxnI)
+  - Shitcoin Support (XMT, Extensions)
+  - Not a wallet?
+  - Own Rust based OS.
+  - Separate Bluetooth Chipset.
 
 ## Bitcoin News
 
