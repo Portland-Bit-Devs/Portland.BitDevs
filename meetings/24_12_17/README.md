@@ -53,6 +53,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Not a wallet?
   - Own Rust based OS.
   - Separate Bluetooth Chipset.
+- [Zero Fee Playgound - Super Testnet](https://supertestnet.github.io/zero_fee_playground/) 
 
 ## Bitcoin News
 
