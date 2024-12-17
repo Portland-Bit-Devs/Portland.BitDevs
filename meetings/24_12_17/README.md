@@ -36,8 +36,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 8:30pm:** Primary topics discussion.
-- **8:00pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
+- **7:00pm - 7:30pm:** CrazyK Presenation "Free Samourai".
+- **7:30pm - 8:00pm:** Portland.HODL Presentation - "Bitcoin Bitcoin ❤️ Rust"
+- **8:00pm - 8:30pm:** General Bitcoin Developer Discussion
+- **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
 
