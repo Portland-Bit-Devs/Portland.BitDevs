@@ -42,6 +42,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
+- [VSCode Bitcoin Script Hints](https://x.com/PortlandHODL/status/1862204398719381753)
+  - Allows you to use the Bitcoin Script Rust Crate with Stack based hints
+  - Emulates to a small degree [scriptwiz](https://ide.scriptwiz.app/)
+- [Ascisco - Bitcoin Mining Types](https://x.com/aeonBTC/status/1866941104320553177)
+- 
 
 ## Bitcoin News
 
