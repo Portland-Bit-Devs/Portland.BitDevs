@@ -46,7 +46,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Allows you to use the Bitcoin Script Rust Crate with Stack based hints
   - Emulates to a small degree [scriptwiz](https://ide.scriptwiz.app/)
 - [Ascisco - Bitcoin Mining Types](https://x.com/aeonBTC/status/1866941104320553177)
-- 
+- [John Carvhalo - Sats = Bitcoin BIP](https://x.com/BitcoinErrorLog/status/1867597672363806995)
 
 ## Bitcoin News
 
