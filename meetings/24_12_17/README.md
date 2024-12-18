@@ -67,7 +67,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Tap to refresh any individual dashboard card.
 - [Wasabi  - Privacy Vuln.](https://bitcoinops.org/en/newsletters/2024/12/13/#deanonymization-vulnerability-affecting-wasabi-and-related-software)
 - [Bitcoin Core Dev Tech Transacripts](https://btctranscripts.com/bitcoin-core-dev-tech/2024-10)
-- 
+- [NVK Block Clock Takedown](https://x.com/zachherbert/status/1857157133638250551)
 
 ## Tech News
 
