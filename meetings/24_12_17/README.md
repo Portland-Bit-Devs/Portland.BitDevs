@@ -28,10 +28,9 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Guess the Nonce
 
-- T-Shirt
-- Bitcoin Coffee
-- Pack of Pleb Cards
-- Pack of Pleb Cards
+- Bitcoin t-shirt (Large)
+- The Fiat Standard (hardcover)
+- Set of 4 Bitcoin / Pleb Miner coasters
 
 ### Schedule
 
