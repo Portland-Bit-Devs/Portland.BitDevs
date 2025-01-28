@@ -52,10 +52,14 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Code Cleanliness
   - Parts have been merged but not completely
 - [p2p: Fill reconciliation sets (Erlay) attempt 2](https://github.com/bitcoin/bitcoin/pull/30116)
+- [p2p: track and use all potential peers for orphan resolution](https://github.com/bitcoin/bitcoin/pull/31397)
 - [Coinswap 0.1.0 Released](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
   - Full Coinswap protocol has been formalized.
 - [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
-  - [BIP 353]()
+  - [BIP 353](https://en.bitcoin.it/wiki/BIP_0353)
+- Art Blocks on Mempool.space
+  - [Trump](https://x.com/mononautical/status/1880175477387850002)
+  - [BTCAI](https://en.bitcoin.it/wiki/BIP_0353)
 - [Cluster Mempool](https://github.com/bitcoin/bitcoin/pull/31122)
 - [Ascisco - Bitcoin Mining Types](https://x.com/aeonBTC/status/1866941104320553177)
 - [Foundation Prime PSP](https://www.youtube.com/watch?v=0TjuC4NVxnI)
