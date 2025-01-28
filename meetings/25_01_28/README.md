@@ -51,8 +51,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Deprecates lib-bitcoinconsensus
   - Code Cleanliness
   - Parts have been merged but not completely
+- [kernel: Move kernel-related cache constants to kernel cache](https://github.com/bitcoin/bitcoin/pull/31122)
 - [p2p: Fill reconciliation sets (Erlay) attempt 2](https://github.com/bitcoin/bitcoin/pull/30116)
 - [p2p: track and use all potential peers for orphan resolution](https://github.com/bitcoin/bitcoin/pull/31397)
+- [Cluster Mempool](https://github.com/bitcoin/bitcoin/pull/31122)
+- [LN Losing money to fees](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
 - [Coinswap 0.1.0 Released](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
   - Full Coinswap protocol has been formalized.
 - [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
@@ -60,7 +63,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - Art Blocks on Mempool.space
   - [Trump](https://x.com/mononautical/status/1880175477387850002)
   - [BTCAI](https://en.bitcoin.it/wiki/BIP_0353)
-- [Cluster Mempool](https://github.com/bitcoin/bitcoin/pull/31122)
 - [Foundation Prime PSP](https://www.youtube.com/watch?v=0TjuC4NVxnI)
   - Shitcoin Support (XMT, Extensions)
   - Not a wallet?
