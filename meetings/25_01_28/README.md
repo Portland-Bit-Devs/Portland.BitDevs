@@ -25,15 +25,13 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Requests
 
-- A guest speaker for October 22 2024
-- Artist / Graphic designer to help with branding and web applications.
+- A guest speaker for Feb. 25 2025
+- Artist / Graphic designer to help with branding and web applications. [1.5 years in]
 - Continue to improve the Portland BitDevs web experience.
 
 ### Guess the Nonce
 
-- Bitcoin t-shirt (Large)
-- The Fiat Standard (hardcover)
-- Set of 4 Bitcoin / Pleb Miner coasters
+- TOP SECRET GIFTS Provided by Eric! 
 
 ### Schedule
 
