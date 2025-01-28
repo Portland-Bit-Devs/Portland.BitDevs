@@ -1,7 +1,7 @@
 ---
-date: '2024-08-24'
+date: '2025-01-28'
 type: Doc/
-title: "17 December 2024 PDX BitDevs"
+title: "28 January 2025 PDX BitDevs"
 ---
 
 ## Announcements
