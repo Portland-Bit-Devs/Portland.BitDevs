@@ -13,6 +13,9 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Special Thanks | Mentions
 
 - Thank you to everyone who shows up each month!
+- Happy First BitDevs of 2025
+- Want to extend a warm welcome to our special guest 'J'
+  - Host of the first NY BitDevs
 
 ### Rules
 
