@@ -41,38 +41,29 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [VSCode Bitcoin Script Hints](https://x.com/PortlandHODL/status/1862204398719381753)
-  - Allows you to use the Bitcoin Script Rust Crate with Stack based hints
-  - Emulates to a small degree [scriptwiz](https://ide.scriptwiz.app/)
+- [Wassabi Privacy Vuln.](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
+  - 3 different wallets affected.
+  - Coordinator can enter the join as many times as they would like.
+- [Coinswap 0.1.0 Released](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
+  - Full Coinswap protocol has been formalized.
+- [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
+  - [BIP 353]()
+- [Cluster Mempool](https://github.com/bitcoin/bitcoin/pull/31122)
 - [Ascisco - Bitcoin Mining Types](https://x.com/aeonBTC/status/1866941104320553177)
-- [John Carvhalo - Sats = Bitcoin BIP](https://x.com/BitcoinErrorLog/status/1867597672363806995)
-  - [Actual repo](https://github.com/BitcoinAndLightningLayerSpecs/balls/blob/main/BIP%2021Q.md)
 - [Foundation Prime PSP](https://www.youtube.com/watch?v=0TjuC4NVxnI)
   - Shitcoin Support (XMT, Extensions)
   - Not a wallet?
   - Own Rust based OS.
   - Separate Bluetooth Chipset.
-- [Zero Fee Playgound - Super Testnet](https://supertestnet.github.io/zero_fee_playground/)
-  - [Testnet4 Example](https://mempool.space/testnet4/tx/fb4e90e8823e34de3671df2f6f4b7cd9cf8ef89e8ef5f89d90096333f2d3e705?mode=details)
 - [Anchor Outputs Swpet on Mainnet](https://mempool.space/address/bc1qqjn2j9cac562ws65raxeua88km8t4z5vqpun0l)
 - [Covenants Alignment Chart](https://en.bitcoin.it/wiki/Covenants_support)
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
 
 ## Bitcoin News
-- [Mempal v1.4.0 Released](https://x.com/aeonBTC/status/1868040373936988463)
-  - New app icon.
-  - Major optimizations.
-  - Save multiple custom mempool servers.
-  - Set notification intervals from minutes to seconds.
-  - Tap to refresh any individual dashboard card.
-- [Wasabi  - Privacy Vuln.](https://bitcoinops.org/en/newsletters/2024/12/13/#deanonymization-vulnerability-affecting-wasabi-and-related-software)
 - [Bitcoin Core Dev Tech Transacripts](https://btctranscripts.com/bitcoin-core-dev-tech/2024-10)
 - [NVK Block Clock Takedown](https://x.com/zachherbert/status/1857157133638250551)
 
 ## Tech News
-
-- [BADRam Attack](https://www.reddit.com/r/hardware/comments/1hbc4pw/amd_secure_vm_tech_undone_by_dram_meddling/)
-  - Spoofs double size RAM so that when the user writes a single known bit the other bit can be discovered.
 - [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
   - Learn a lot more about what make LLVM tick under the hood and what is next
   - Very nice video about LLVM ❤️ Rust
