@@ -44,6 +44,12 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Wassabi Privacy Vuln.](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
   - 3 different wallets affected.
   - Coordinator can enter the join as many times as they would like.
+- [Mempool Contents (State) Then vs Now](https://x.com/mononautical/status/1841595148544745652)
+- [The Bitcoin Kernel](https://thecharlatan.ch/Kernel/)
+  - Modular Consensus Plugin.
+  - Deprecates lib-bitcoinconsensus
+  - Code Cleanliness
+  - Parts have been merged but not completely
 - [Coinswap 0.1.0 Released](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
   - Full Coinswap protocol has been formalized.
 - [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
