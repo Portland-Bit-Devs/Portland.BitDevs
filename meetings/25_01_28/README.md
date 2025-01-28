@@ -45,7 +45,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - 3 different wallets affected.
   - Coordinator can enter the join as many times as they would like.
 - [Mempool Contents (State) Then vs Now](https://x.com/mononautical/status/1841595148544745652)
-- [Foundry]
+- [Foundry²](https://x.com/0xB10C/status/1841863284636442882)
 - [The Bitcoin Kernel](https://thecharlatan.ch/Kernel/)
   - Modular Consensus Plugin.
   - Deprecates lib-bitcoinconsensus
@@ -61,7 +61,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - [Trump](https://x.com/mononautical/status/1880175477387850002)
   - [BTCAI](https://en.bitcoin.it/wiki/BIP_0353)
 - [Cluster Mempool](https://github.com/bitcoin/bitcoin/pull/31122)
-- [Ascisco - Bitcoin Mining Types](https://x.com/aeonBTC/status/1866941104320553177)
 - [Foundation Prime PSP](https://www.youtube.com/watch?v=0TjuC4NVxnI)
   - Shitcoin Support (XMT, Extensions)
   - Not a wallet?
