@@ -63,7 +63,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [Support Trampoline flag in BOLT12 invoices](https://github.com/lightningdevkit/rust-lightning/pull/3446)
 - Art Blocks on Mempool.space
   - [Trump](https://x.com/mononautical/status/1880175477387850002)
-  - [BTCAI](https://en.bitcoin.it/wiki/BIP_0353)
+  - [BTCAI](https://x.com/mononautical/status/1882566486054826393)
 - [Foundation Prime PSP](https://www.youtube.com/watch?v=0TjuC4NVxnI)
   - Shitcoin Support (XMT, Extensions)
   - Not a wallet?
