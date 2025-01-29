@@ -14,7 +14,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 - Thank you to everyone who shows up each month!
 - Happy First BitDevs of 2025
-- Want to extend a warm welcome to our special guest 'J'
+- Want to extend a warm welcome to our special host 'J'
   - Host of the first NY BitDevs
 
 ### Rules
@@ -36,8 +36,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:30pm:** Portland.HODL Presentation TRUC 🚚.
-- **7:30pm - 8:30pm:** General Bitcoin Developer Discussion Lead By 'J'
+- **7:00pm - 7:20pm:** Portland.HODL Presentation TRUC 🚚.
+- **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead By 'J'
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
@@ -60,6 +60,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Full Coinswap protocol has been formalized.
 - [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
   - [BIP 353](https://en.bitcoin.it/wiki/BIP_0353)
+- [Support Trampoline flag in BOLT12 invoices](https://github.com/lightningdevkit/rust-lightning/pull/3446)
 - Art Blocks on Mempool.space
   - [Trump](https://x.com/mononautical/status/1880175477387850002)
   - [BTCAI](https://en.bitcoin.it/wiki/BIP_0353)
