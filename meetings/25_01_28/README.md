@@ -51,7 +51,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Deprecates lib-bitcoinconsensus
   - Code Cleanliness
   - Parts have been merged but not completely
-- [kernel: Move kernel-related cache constants to kernel cache](https://github.com/bitcoin/bitcoin/pull/31122)
+- [kernel: Move kernel-related cache constants to kernel cache](https://github.com/bitcoin/bitcoin/pull/31483)
 - [p2p: Fill reconciliation sets (Erlay) attempt 2](https://github.com/bitcoin/bitcoin/pull/30116)
 - [p2p: track and use all potential peers for orphan resolution](https://github.com/bitcoin/bitcoin/pull/31397)
 - [Cluster Mempool](https://github.com/bitcoin/bitcoin/pull/31122)
