@@ -39,21 +39,23 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
+- [Braiins bASIC](https://x.com/EliNagarBrr/status/1894066945907200145)
 - [The Bitcoin Kernel](https://thecharlatan.ch/Kernel/)
   - Modular Consensus Plugin.
   - Deprecates lib-bitcoinconsensus
   - Code Cleanliness
   - Parts have been merged but not completely
 - [kernel: Move kernel-related cache constants to kernel cache](https://github.com/bitcoin/bitcoin/pull/31483)
-- [Coinswap 0.1.0 Released](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
-  - Full Coinswap protocol has been formalized.
+- [V3 Lightning Channel Closes](https://x.com/acinq_co/status/1890448329193959610)
+  - Completely removes fees from the the closing transaction removing a massive part of the attack surface that enables the theft of funds.
 - [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
   - [BIP 353](https://en.bitcoin.it/wiki/BIP_0353)
 - [Covenants Alignment Chart](https://en.bitcoin.it/wiki/Covenants_support)
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
 
 ## Bitcoin News
-
+- [Gox Hack 21st Anniversary](https://x.com/BikesandBitcoin/status/1894006852469346647)
+- [SBF Tweets from Jail?](https://x.com/SBF_FTX/status/1894204086754709951)
 ## Tech News
 - [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
   - Learn a lot more about what make LLVM tick under the hood and what is next
