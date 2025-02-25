@@ -1,7 +1,7 @@
 ---
-date: '2025-01-28'
+date: '2025-02-25'
 type: Doc/
-title: "28 January 2025 PDX BitDevs"
+title: "25 February 2025 PDX BitDevs"
 ---
 
 ## Announcements
@@ -13,9 +13,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Special Thanks | Mentions
 
 - Thank you to everyone who shows up each month!
-- Happy First BitDevs of 2025
-- Want to extend a warm welcome to our special host 'J'
-  - Host of the first NY BitDevs
+- Thank you to Jon for the Bank Simulator Presentation.
 
 ### Rules
 
