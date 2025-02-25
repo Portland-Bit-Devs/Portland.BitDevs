@@ -63,3 +63,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Very nice video about LLVM ❤️ Rust
 - [Falppy Coin](https://x.com/rot13maxi/status/1894103676916035754)
   - Made purely using Grok
+- [Claude 3.7](https://www.anthropic.com/news/claude-3-7-sonnet)
+  - Much better frontend dev
+  - Marginally better backend dev
