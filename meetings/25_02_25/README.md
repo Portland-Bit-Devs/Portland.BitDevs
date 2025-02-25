@@ -23,7 +23,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Requests
 
-- A guest speaker for Feb. 25 2025
+- A guest speaker for March. 25 2025
 - Artist / Graphic designer to help with branding and web applications. [1.5 years in]
 - Continue to improve the Portland BitDevs web experience.
 
