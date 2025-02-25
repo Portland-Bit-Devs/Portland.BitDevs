@@ -56,7 +56,10 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Bitcoin News
 - [Gox Hack 21st Anniversary](https://x.com/BikesandBitcoin/status/1894006852469346647)
 - [SBF Tweets from Jail?](https://x.com/SBF_FTX/status/1894204086754709951)
+  
 ## Tech News
 - [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
   - Learn a lot more about what make LLVM tick under the hood and what is next
   - Very nice video about LLVM ❤️ Rust
+- [Falppy Coin](https://x.com/rot13maxi/status/1894103676916035754)
+  - Made purely using Grok
