@@ -41,6 +41,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Bitcoin Dev News
 - [Braiins bASIC](https://x.com/EliNagarBrr/status/1894066945907200145)
 - [OFAC Transactions Missing From Blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
+- [Package Relay Cipher Challenge](https://x.com/jaoNoctus/status/1889855527360119266)
 - [The Bitcoin Kernel](https://thecharlatan.ch/Kernel/)
   - Modular Consensus Plugin.
   - Deprecates lib-bitcoinconsensus
