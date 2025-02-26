@@ -43,6 +43,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 - [OFAC Transactions Missing From Blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
 - [Package Relay Cipher Challenge](https://x.com/jaoNoctus/status/1889855527360119266)
   - [Spending Transaction](https://mempool.space/tx/d562bc7c7c428a0ecf11ddbe50136c13076fdf465f30e4e7b9c0483268390fea?mode=details#flow=&vout=0)
+- [Mempool Clears (Multiple Times)](https://x.com/mononautical/status/1888907190033072434)
 - [The Bitcoin Kernel](https://thecharlatan.ch/Kernel/)
   - Modular Consensus Plugin.
   - Deprecates lib-bitcoinconsensus
