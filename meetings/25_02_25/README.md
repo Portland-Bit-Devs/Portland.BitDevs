@@ -95,3 +95,5 @@ _Revolution Hall_
   - Marginally better backend dev
 - [Microsoft Quantum Meta Materials](https://x.com/satyanadella/status/1892242895094313420)
 - [Bitcoin++ Winners + entries](https://bitcoinplusplus.devpost.com/project-gallery?page=1)
+- [ByBit Hacked for 1.5B in 'Crypto'](https://x.com/benbybit/status/1892963530422505586)
+- [This is why we Bitcoin](https://x.com/Bybit_Official/status/1893687749229563958)
