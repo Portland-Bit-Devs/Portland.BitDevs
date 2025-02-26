@@ -29,7 +29,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Guess the Nonce
 
-- TOP SECRET GIFTS Provided by Eric! 
+- 1x The Fiat Standard
+- 1x PDX Bitdevs Waterbottle
 
 ### Schedule
 
