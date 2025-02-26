@@ -10,6 +10,21 @@ Please join us for our next Socratic Seminar. A special thank you to our host <a
 
 If you can't make it to the main event please join us at Lutz Tavern around 9PM **<a href="https://www.lutztavern.com/" data-no-summary>here</a>.**
 
+The Portland Bitcoin Group Meetup is now sponsored by the non-profit Bitcoin is for Everyone!
+Insider Tickets (shhh!) available for a limited time
+- [Ticket-only ($99)](https://pay.zaprite.com/pl_r0iZfbk20s)🎟
+  
+  ![image](https://github.com/user-attachments/assets/0d0a9967-cc65-4674-b341-c0865256eed3)
+
+- [Combo: ticket plus T-shirt ($124)](https://pay.zaprite.com/pl_qd6uXJ80ZQ)🎟👕
+  
+  ![image](https://github.com/user-attachments/assets/529d2ad8-db78-4177-809c-ef415aebd00d)
+
+
+_Bitcoin is for Everyone_
+_Friday Aug 1st 2025_
+_Revolution Hall_
+
 ### Special Thanks | Mentions
 
 - Thank you to everyone who shows up each month!
