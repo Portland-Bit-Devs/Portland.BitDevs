@@ -75,6 +75,7 @@ _Revolution Hall_
   - [BIP 353](https://en.bitcoin.it/wiki/BIP_0353)
 - [Covenants Alignment Chart](https://en.bitcoin.it/wiki/Covenants_support)
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
+  - [Knapsack Probelm](https://developers.google.com/optimization/pack/knapsack)
 - [Orange Pill App LN Wallet](https://www.orangepillapp.com/blog/orange-pill-app-wallet)
 - [Improved Bitcoin Seed Tool by Ian Colemann](https://bitcoiner.guide/seed/)
 - [Bitcoin Reorg Calculator](https://bitcoindevs.xyz/decoding/reorg-calculator)
