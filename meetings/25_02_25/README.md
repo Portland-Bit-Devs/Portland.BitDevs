@@ -51,6 +51,7 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Code Cleanliness
   - Parts have been merged but not completely
 - [kernel: Move kernel-related cache constants to kernel cache](https://github.com/bitcoin/bitcoin/pull/31483)
+- [Bitcoin Script Simplicty vs. Eth.](https://x.com/high_byte/status/1893560088842969428)
 - [V3 Lightning Channel Closes](https://x.com/acinq_co/status/1890448329193959610)
   - Completely removes fees from the the closing transaction removing a massive part of the attack surface that enables the theft of funds.
 - [Bolts Include BIP353 Name in Invoice](https://github.com/lightning/bolts/pull/1180)
@@ -61,6 +62,8 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ## Bitcoin News
 - [Gox Hack 21st Anniversary](https://x.com/BikesandBitcoin/status/1894006852469346647)
 - [SBF Tweets from Jail?](https://x.com/SBF_FTX/status/1894204086754709951)
+- [LN Pizza Day (Eric)](https://calendar.bitbo.io/lightning-pizza-day/)
+- [Arb data in Emojis](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
   
 ## Tech News
 - [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
@@ -72,3 +75,4 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Much better frontend dev
   - Marginally better backend dev
 - [Microsoft Quantum Meta Materials](https://x.com/satyanadella/status/1892242895094313420)
+- [https://bitcoinplusplus.devpost.com/project-gallery?page=1](Bitcoin++ Winners + entries)
