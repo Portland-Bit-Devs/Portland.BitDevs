@@ -56,6 +56,7 @@ _Revolution Hall_
 
 ## Bitcoin Dev News
 - [Braiins bASIC](https://x.com/EliNagarBrr/status/1894066945907200145)
+- [Mempool.space Stratum Viewer](https://mempool.space/stratum)
 - [OFAC Transactions Missing From Blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
 - [Package Relay Cipher Challenge](https://x.com/jaoNoctus/status/1889855527360119266)
   - [Spending Transaction](https://mempool.space/tx/d562bc7c7c428a0ecf11ddbe50136c13076fdf465f30e4e7b9c0483268390fea?mode=details#flow=&vout=0)
