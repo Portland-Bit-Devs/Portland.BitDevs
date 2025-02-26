@@ -75,4 +75,4 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
   - Much better frontend dev
   - Marginally better backend dev
 - [Microsoft Quantum Meta Materials](https://x.com/satyanadella/status/1892242895094313420)
-- [https://bitcoinplusplus.devpost.com/project-gallery?page=1](Bitcoin++ Winners + entries)
+- [Bitcoin++ Winners + entries](https://bitcoinplusplus.devpost.com/project-gallery?page=1)
