@@ -50,8 +50,8 @@ _Revolution Hall_
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:20pm:** Portland.HODL Presentation TRUC 🚚.
-- **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead By 'J'
+- **7:00pm - 7:20pm:** Jon Bank Simulator Presentation
+- **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
