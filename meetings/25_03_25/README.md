@@ -58,6 +58,11 @@ _Revolution Hall_
 - [Cerkle Tree](https://github.com/russeree/cerkle-tree) - A Sparse Merkle Tree Implementation
 - [Solo Block Found](https://x.com/SoloSatoshi/status/1903060375626478070)
   - [Claimes](https://x.com/SoloSatoshi/status/1903629700242555293)
+- [Self Custody Discussion](https://abundantmines.com/bitcoin-custody/)
+- [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
+- [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
+  - [Mempool.Space PR](https://github.com/mempool/mempool/issues/5823) 
+
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
   - [Knapsack Probelm](https://developers.google.com/optimization/pack/knapsack)
 - [Improved Bitcoin Seed Tool by Ian Colemann](https://bitcoiner.guide/seed/)
