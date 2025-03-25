@@ -50,8 +50,8 @@ _Revolution Hall_
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:20pm:** Jon Bank Simulator Presentation
-- **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric
+- **7:00pm - 7:20pm:** General Self Custody Discussion.
+- **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric.
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
@@ -60,6 +60,7 @@ _Revolution Hall_
   - [Claimes](https://x.com/SoloSatoshi/status/1903629700242555293)
 - [Self Custody Discussion](https://abundantmines.com/bitcoin-custody/)
 - [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
+- [Private Keys Slides](https://docs.google.com/presentation/d/16vND0sQFJCMKeSi8OyVUaIdB5PD4F4miTmcX4lLGJQk/edit?usp=sharing)
 - [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
   - [Mempool.Space PR](https://github.com/mempool/mempool/issues/5823)
 - [Stratum Observer](https://stratum.work/height/889433)
@@ -73,16 +74,13 @@ _Revolution Hall_
   - [OG Cracking](https://youtu.be/foil0hzl4Pg?t=439)
 - [Bip370 Decoder](https://bip370.org)
 - [Source Available Secure Element](https://tropicsquare.com/tropic01)
-
+- [Node P2P Traffic Analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
   - [Knapsack Probelm](https://developers.google.com/optimization/pack/knapsack)
 - [Improved Bitcoin Seed Tool by Ian Colemann](https://bitcoiner.guide/seed/)
 
 ## Bitcoin News
-- [Gox Hack 21st Anniversary](https://x.com/BikesandBitcoin/status/1894006852469346647)
 - [SBF Tweets from Jail?](https://x.com/SBF_FTX/status/1894204086754709951)
-- [LN Pizza Day (Eric)](https://calendar.bitbo.io/lightning-pizza-day/)
-- [Arb data in Emojis](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
   
 ## Tech News
 - [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
