@@ -61,7 +61,10 @@ _Revolution Hall_
 - [Self Custody Discussion](https://abundantmines.com/bitcoin-custody/)
 - [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
 - [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
-  - [Mempool.Space PR](https://github.com/mempool/mempool/issues/5823) 
+  - [Mempool.Space PR](https://github.com/mempool/mempool/issues/5823)
+- [Stratum Observer](https://stratum.work/height/889433)
+  - [Timing](https://x.com/boerst/status/1904214228421992646)
+- [Orange Surf - Antpool and Friends](https://grid.orange.surf/?metric=miners&minerGroups=AntPool+%26+friends%3Ared%3AAntPool%2CBTC.com%2CBinance+Pool%2CWhitePool%2CSECPOOL%2CLuxor%7COther%3Agreen%3ASBI+Crypto%2COCEAN%2CMARA+Pool%2CF2Pool%2CFoundry+USA%2CViaBTC&ref=b10c.me)
 
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
   - [Knapsack Probelm](https://developers.google.com/optimization/pack/knapsack)
