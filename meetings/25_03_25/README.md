@@ -55,7 +55,9 @@ _Revolution Hall_
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [Cerkle Tree](https://github.com/russeree/cerkle-tree) - A Sparse Merkle Tree Implementation 
+- [Cerkle Tree](https://github.com/russeree/cerkle-tree) - A Sparse Merkle Tree Implementation
+- [Solo Block Found](https://x.com/SoloSatoshi/status/1903060375626478070)
+  - [Claimes](https://x.com/SoloSatoshi/status/1903629700242555293)
 - [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
   - [Knapsack Probelm](https://developers.google.com/optimization/pack/knapsack)
 - [Improved Bitcoin Seed Tool by Ian Colemann](https://bitcoiner.guide/seed/)
