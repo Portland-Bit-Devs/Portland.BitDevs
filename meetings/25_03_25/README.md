@@ -1,7 +1,7 @@
 ---
 date: '2025-02-25'
 type: Doc/
-title: "25 February 2025 PDX BitDevs"
+title: "25 March 2025 PDX BitDevs"
 ---
 
 ## Announcements
@@ -38,14 +38,13 @@ _Revolution Hall_
 
 ### Requests
 
-- A guest speaker for March. 25 2025
+- A guest speaker for Apr. 22 2025
 - Artist / Graphic designer to help with branding and web applications. [1.5 years in]
 - Continue to improve the Portland BitDevs web experience.
 
 ### Guess the Nonce
 
-- 1x The Fiat Standard
-- 1x PDX Bitdevs Waterbottle
+- 1x Top Secret Until Revealed
 
 ### Schedule
 
