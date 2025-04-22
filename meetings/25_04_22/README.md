@@ -58,6 +58,11 @@ _Revolution Hall_
 - [0xB10C Mining Centralization](https://b10c.me/blog/015-bitcoin-mining-centralization/)
 - [0xB10C Antpool creating bad jobs](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
 - [Bitcoin Core 29.0 Released 🎉](https://bitcoincore.org/en/releases/29.0/)
+  - Ephemeral Dust
+  - Coinbase Revserved Double Counted WUs Fixes (Issues Maybe?)
+  - `testmempoolaccept` now has reject details
+  - Timewarp Fix getblocktemplate
+- [Bitcoin Core PR Checker](https://corecheck.dev/bitcoin/bitcoin/pulls/30708)
 - [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
 - [Private Keys Slides](https://docs.google.com/presentation/d/16vND0sQFJCMKeSi8OyVUaIdB5PD4F4miTmcX4lLGJQk/edit?usp=sharing)
 - [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
