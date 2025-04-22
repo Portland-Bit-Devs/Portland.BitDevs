@@ -1,7 +1,7 @@
 ---
-date: '2025-02-25'
+date: '2025-04-22'
 type: Doc/
-title: "25 March 2025 PDX BitDevs"
+title: "25 April 2025 PDX BitDevs"
 ---
 
 ## Announcements
@@ -38,8 +38,8 @@ _Revolution Hall_
 
 ### Requests
 
-- A guest speaker for Apr. 22 2025
-- Artist / Graphic designer to help with branding and web applications. [1.5 years in]
+- A guest speaker for May 27. 2025
+- Artist / Graphic designer to help with branding and web applications. [1.6 years in]
 - Continue to improve the Portland BitDevs web experience.
 
 ### Guess the Nonce
@@ -54,8 +54,8 @@ _Revolution Hall_
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [Cerkle Tree](https://github.com/russeree/cerkle-tree) - A Sparse Merkle Tree Implementation
-- [Solo Block Found](https://x.com/SoloSatoshi/status/1903060375626478070)
+- [Tether + Ocean = ❤️](https://github.com/russeree/cerkle-tree)
+- [0xB10C Mining Centralization](https://b10c.me/blog/015-bitcoin-mining-centralization/)
   - [Claimes](https://x.com/SoloSatoshi/status/1903629700242555293)
 - [Self Custody Discussion](https://abundantmines.com/bitcoin-custody/)
 - [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
