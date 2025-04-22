@@ -44,12 +44,13 @@ _Revolution Hall_
 
 ### Guess the Nonce
 
-- 1x Top Secret Until Revealed
+- 1x Block Stream Jade
+- 
 
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:20pm:** General Self Custody Discussion.
+- **7:00pm - 7:20pm:** 🚨 Breaking Bitcoin 🚨
 - **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric.
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
@@ -63,8 +64,13 @@ _Revolution Hall_
   - `testmempoolaccept` now has reject details
   - Timewarp Fix getblocktemplate
 - [Bitcoin Core PR Checker](https://corecheck.dev/bitcoin/bitcoin/pulls/30708)
-- [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
-- [Private Keys Slides](https://docs.google.com/presentation/d/16vND0sQFJCMKeSi8OyVUaIdB5PD4F4miTmcX4lLGJQk/edit?usp=sharing)
+- [Taproot Tree Visualizer on Mempool.space](https://x.com/mempool/status/1911389181101679080)
+- [Ancient Inscriptions](https://x.com/mononautical/status/1910703196672340007)
+- [Benthecarman Leaves Taproot Wizards to Work on LN](https://x.com/spiralbtc/status/1914334079387914435)
+- [Polymarket Adds OP_CAT vs. OP_CTV](https://polymarket.com/event/will-bitcoin-activate-op-ctv-or-op-cat-in-2025)
+- [XRP NPM Package PWND'](https://x.com/AikidoSecurity/status/1914610391218299190)
+- [🚨 Breaking Bitcoin Slides 🚨](https://docs.google.com/presentation/d/1gSJKPKtutw-Ui9oHIij8QMTtIvfctPXpPV85xW0pUK4/edit?usp=sharing)
+- [GCC - SPV Proofs Vulnerable to 64 Byte TXNS](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710/84)
 - [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
   - [Mempool.Space PR](https://github.com/mempool/mempool/issues/5823)
 - [Stratum Observer](https://stratum.work/height/889433)
