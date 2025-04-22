@@ -71,29 +71,10 @@ _Revolution Hall_
 - [XRP NPM Package PWND'](https://x.com/AikidoSecurity/status/1914610391218299190)
 - [🚨 Breaking Bitcoin Slides 🚨](https://docs.google.com/presentation/d/1gSJKPKtutw-Ui9oHIij8QMTtIvfctPXpPV85xW0pUK4/edit?usp=sharing)
 - [GCC - SPV Proofs Vulnerable to 64 Byte TXNS](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710/84)
-- [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
-  - [Mempool.Space PR](https://github.com/mempool/mempool/issues/5823)
-- [Stratum Observer](https://stratum.work/height/889433)
-  - [Timing](https://x.com/boerst/status/1904214228421992646)
-- [Orange Surf - Antpool and Friends](https://grid.orange.surf/?metric=miners&minerGroups=AntPool+%26+friends%3Ared%3AAntPool%2CBTC.com%2CBinance+Pool%2CWhitePool%2CSECPOOL%2CLuxor%7COther%3Agreen%3ASBI+Crypto%2COCEAN%2CMARA+Pool%2CF2Pool%2CFoundry+USA%2CViaBTC&ref=b10c.me)
-- [BCB100 Full Opensource](https://github.com/braiins/BCB100)
-- [Slipstream Competitor](https://x.com/mononautical/status/1899702910600298812)
-- [Brain Wallets Swept](https://x.com/mononautical/status/1895639824197206352)
-  - [Brain Wallet Browser](https://privatekeys.pw/brainwallet/bitcoin/1)
-  - [Hashing Example](https://emn178.github.io/online-tools/sha256.html)
-  - [OG Cracking](https://youtu.be/foil0hzl4Pg?t=439)
-- [Bip370 Decoder](https://bip370.org)
-- [Source Available Secure Element](https://tropicsquare.com/tropic01)
-- [Node P2P Traffic Analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
-- [Large TXs and Block Construction](https://bitcoin.stackexchange.com/questions/124636/why-do-standardness-rules-limit-transaction-weight)
-  - [Knapsack Probelm](https://developers.google.com/optimization/pack/knapsack)
-- [Improved Bitcoin Seed Tool by Ian Colemann](https://bitcoiner.guide/seed/)
+- [PSBT V2. Viewer](https://bip370.org/)
 
 ## Bitcoin News
-- [SBF Tweets from Jail?](https://x.com/SBF_FTX/status/1894204086754709951)
   
 ## Tech News
-- [LLVM Meeting Notes Public](https://www.youtube.com/@LLVMPROJ/videos)
-  - Learn a lot more about what make LLVM tick under the hood and what is next
   - Very nice video about LLVM ❤️ Rust
 - [Microsoft Quantum Meta Materials](https://x.com/satyanadella/status/1892242895094313420)
