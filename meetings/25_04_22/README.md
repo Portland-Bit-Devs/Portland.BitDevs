@@ -56,8 +56,8 @@ _Revolution Hall_
 ## Bitcoin Dev News
 - [Tether + Ocean = ❤️](https://github.com/russeree/cerkle-tree)
 - [0xB10C Mining Centralization](https://b10c.me/blog/015-bitcoin-mining-centralization/)
-  - [Claimes](https://x.com/SoloSatoshi/status/1903629700242555293)
-- [Self Custody Discussion](https://abundantmines.com/bitcoin-custody/)
+- [0xB10C Antpool creating bad jobs](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
+- [Bitcoin Core 29.0 Released 🎉](https://bitcoincore.org/en/releases/29.0/)
 - [Seed Phrases Discussion](https://abundantmines.com/seed-phrases/)
 - [Private Keys Slides](https://docs.google.com/presentation/d/16vND0sQFJCMKeSi8OyVUaIdB5PD4F4miTmcX4lLGJQk/edit?usp=sharing)
 - [Duplicate Transactions](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
