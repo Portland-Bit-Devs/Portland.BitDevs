@@ -74,6 +74,7 @@ _Revolution Hall_
 - [PSBT V2. Viewer](https://bip370.org/)
 
 ## Bitcoin News
+- [[ETH/BTC] ATL](https://x.com/stacyherbert/status/1914476033807442340)
   
 ## Tech News
   - Very nice video about LLVM ❤️ Rust
