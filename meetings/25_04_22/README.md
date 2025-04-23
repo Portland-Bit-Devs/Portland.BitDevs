@@ -45,7 +45,8 @@ _Revolution Hall_
 ### Guess the Nonce
 
 - 1x Block Stream Jade
-- 
+- The UNcommunist Manifesto
+- Death Athletic Hat
 
 ### Schedule
 
