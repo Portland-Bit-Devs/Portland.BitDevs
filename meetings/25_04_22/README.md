@@ -51,7 +51,10 @@ _Revolution Hall_
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:20pm:** 🚨 Breaking Bitcoin 🚨
+- **7:00pm - 7:20pm:**
+  - Mining Disrupted - Reckless
+  - Orange Pilling Non-Profits - Ahs
+  - 🚨 Breaking Bitcoin 🚨 Portland HODL
 - **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric.
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
