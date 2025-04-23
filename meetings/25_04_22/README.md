@@ -75,6 +75,10 @@ _Revolution Hall_
 - [Testnet3 Removal?](https://bitcoinops.org/en/newsletters/2025/03/28/#discussion-of-testnets-3-and-4)
 - [Taproot Annex Relay](https://bitcoinops.org/en/newsletters/2025/03/28/#plan-to-relay-certain-taproot-annexes)
 
+## Interesting
+- [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
+- bitcoindata.space
+  - WIP Torrents for Bitcoin Timechain Data
 ## Bitcoin News
 - [[ETH/BTC] ATL](https://x.com/stacyherbert/status/1914476033807442340)
   
