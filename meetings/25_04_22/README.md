@@ -72,6 +72,8 @@ _Revolution Hall_
 - [🚨 Breaking Bitcoin Slides 🚨](https://docs.google.com/presentation/d/1gSJKPKtutw-Ui9oHIij8QMTtIvfctPXpPV85xW0pUK4/edit?usp=sharing)
 - [GCC - SPV Proofs Vulnerable to 64 Byte TXNS](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710/84)
 - [PSBT V2. Viewer](https://bip370.org/)
+- [Testnet3 Removal?](https://bitcoinops.org/en/newsletters/2025/03/28/#discussion-of-testnets-3-and-4)
+- [Taproot Annex Relay](https://bitcoinops.org/en/newsletters/2025/03/28/#plan-to-relay-certain-taproot-annexes)
 
 ## Bitcoin News
 - [[ETH/BTC] ATL](https://x.com/stacyherbert/status/1914476033807442340)
