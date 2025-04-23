@@ -55,7 +55,8 @@ _Revolution Hall_
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [Tether + Ocean = ❤️](https://github.com/russeree/cerkle-tree)
+- [Tether + Ocean = ❤️](https://x.com/ocean_mining/status/1911774879008927944)
+  - [Doubles](https://x.com/ocean_mining/status/1911774879008927944)
 - [0xB10C Mining Centralization](https://b10c.me/blog/015-bitcoin-mining-centralization/)
 - [0xB10C Antpool creating bad jobs](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
 - [Bitcoin Core 29.0 Released 🎉](https://bitcoincore.org/en/releases/29.0/)
