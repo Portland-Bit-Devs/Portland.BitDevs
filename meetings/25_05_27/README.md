@@ -94,3 +94,4 @@ _Revolution Hall_
 - [Zeus onchain Swaps + Ecash](https://x.com/ZeusLN/status/1927381302547820835)
 
 ## Tech News
+[Google Veo3 - Boomers Hell](https://x.com/techhalla/status/1925206104679809432)
