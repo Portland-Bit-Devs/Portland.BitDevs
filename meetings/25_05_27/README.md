@@ -58,6 +58,7 @@ _Revolution Hall_
 - [RPC User/Password has been undeprecated](https://github.com/bitcoin/bitcoin/pull/32423#discussion_r2094833979)
 - [Miniscript n/n bug](https://x.com/BitcoinReviewHQ/status/1926325014493536521)
 - [Garbage Man Client Eclipsing](https://x.com/peterktodd/status/1924517867652792342)
+  - [Response](https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k) 
 - [TX Pidgeon using inventory messages](https://x.com/stutxo/status/1923023753040015687)
 - [Optimiziing Cluster Mempool](https://delvingbitcoin.org/t/spanning-forest-cluster-linearization/1419)
 
