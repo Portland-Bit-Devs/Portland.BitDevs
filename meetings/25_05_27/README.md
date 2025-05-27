@@ -54,11 +54,13 @@ _Revolution Hall_
   - [Escrow transaction](https://mempool.space/tx/8245e67349565e481c622fe3437408db7344cdf730edb193c1466326eb021c0b)
   - Using node connect to protect funds
   - [Reorg risk mitigation using non-standard txns](https://github.com/bitcoin/bitcoin/blob/ce46000712439782e7d44b3bb22c375503371ee6/src/validation.cpp#L299)
--
+- [Legacy Wallet Support Removed for v30.0](https://github.com/bitcoin/bitcoin/commit/638a4c0bd8b53766faeb437244b2aae4eed28dcf)
+- [RPC User/Password has been undeprecated](https://github.com/bitcoin/bitcoin/pull/32423#discussion_r2094833979)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
 
 ## Bitcoin News
-  
+- [Gemini Credit Card. BlockFi V2?](https://www.gemini.com/credit-card)
+- [Fake ledger steals coins](https://x.com/intell_on_chain/status/1924053872609308733)
 ## Tech News
