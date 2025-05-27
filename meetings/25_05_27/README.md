@@ -70,6 +70,7 @@ _Revolution Hall_
   - [Post](https://x.com/NicolasDorier/status/1922810237938999719)
 - [Skibidi Wallet Challenge](https://skibidi.cash/)
 - [Orange Surf UTXO Set Report](https://research.mempool.space/utxo-set-report/)
+- [Large OP_RETURNs hit the chain](https://x.com/mononautical/status/1922707114176159955)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
