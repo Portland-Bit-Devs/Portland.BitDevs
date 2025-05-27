@@ -57,6 +57,9 @@ _Revolution Hall_
 - [Legacy Wallet Support Removed for v30.0](https://github.com/bitcoin/bitcoin/commit/638a4c0bd8b53766faeb437244b2aae4eed28dcf)
 - [RPC User/Password has been undeprecated](https://github.com/bitcoin/bitcoin/pull/32423#discussion_r2094833979)
 - [Miniscript n/n bug](https://x.com/BitcoinReviewHQ/status/1926325014493536521)
+- [Garbage Man Client Eclipsing](https://x.com/peterktodd/status/1924517867652792342)
+- [TX Pidgeon using inventory messages](https://x.com/stutxo/status/1923023753040015687)
+- [Optimiziing Cluster Mempool](https://delvingbitcoin.org/t/spanning-forest-cluster-linearization/1419)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
@@ -65,4 +68,5 @@ _Revolution Hall_
 - [Gemini Credit Card. BlockFi V2?](https://www.gemini.com/credit-card)
 - [Fake ledger steals coins](https://x.com/intell_on_chain/status/1924053872609308733)
 - [Ledger False Advertising](https://x.com/hodlorado/status/1927075626134982885)
+- [Lumis Refuses to meet with Ripple CEO](https://x.com/Swan/status/1924542730023391533)
 ## Tech News
