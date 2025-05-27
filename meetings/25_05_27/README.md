@@ -56,6 +56,7 @@ _Revolution Hall_
   - [Reorg risk mitigation using non-standard txns](https://github.com/bitcoin/bitcoin/blob/ce46000712439782e7d44b3bb22c375503371ee6/src/validation.cpp#L299)
 - [Legacy Wallet Support Removed for v30.0](https://github.com/bitcoin/bitcoin/commit/638a4c0bd8b53766faeb437244b2aae4eed28dcf)
 - [RPC User/Password has been undeprecated](https://github.com/bitcoin/bitcoin/pull/32423#discussion_r2094833979)
+- [Miniscript n/n bug](https://x.com/BitcoinReviewHQ/status/1926325014493536521)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
