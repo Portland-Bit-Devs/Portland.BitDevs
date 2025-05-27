@@ -91,5 +91,6 @@ _Revolution Hall_
     - [Not using sats](https://x.com/Square/status/1927396327039684690)
 - [Steak and Shake LN payments](https://x.com/Bryan10309/status/1923419290079834335)
 - [Strategy Completely Dogdges PoR question](https://x.com/cryptonator1337/status/1927242311991234706)
+- [Zeus onchain Swaps + Ecash](https://x.com/ZeusLN/status/1927381302547820835)
 
 ## Tech News
