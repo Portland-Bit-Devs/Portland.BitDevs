@@ -63,6 +63,7 @@ _Revolution Hall_
 - [Optimiziing Cluster Mempool](https://delvingbitcoin.org/t/spanning-forest-cluster-linearization/1419)
 - [BitKey Open Sources their Codebase](https://github.com/proto-at-block/bitkey)
 - [Core Sub 29.0 Vuln](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
+- [Timelock Cleanup for GCC, Cores Internal Miner](https://github.com/bitcoin/bitcoin/pull/32155)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
