@@ -72,6 +72,11 @@ _Revolution Hall_
 - [Orange Surf UTXO Set Report](https://research.mempool.space/utxo-set-report/)
 - [Large OP_RETURNs hit the chain](https://x.com/mononautical/status/1922707114176159955)
 - [MARA Enabled Taproot Annex Support (Unstructured)](https://x.com/mononautical/status/1921193678195810492)
+- [Mempool.space enabled SigHash Flag Visualization](https://x.com/mempool/status/1920864673949204677)
+- [OP_RETURNS Nonstandard getting mined](https://x.com/mononautical/status/1919834852070694990)
+  - Most were using OP_RETURN BOT
+  - [Nonstandard transaction usage increasing. ](https://x.com/mononautical/status/1918740367635083495)
+
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
