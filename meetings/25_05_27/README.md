@@ -63,4 +63,5 @@ _Revolution Hall_
 ## Bitcoin News
 - [Gemini Credit Card. BlockFi V2?](https://www.gemini.com/credit-card)
 - [Fake ledger steals coins](https://x.com/intell_on_chain/status/1924053872609308733)
+- [Ledger False Advertising](https://x.com/hodlorado/status/1927075626134982885)
 ## Tech News
