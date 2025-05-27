@@ -64,6 +64,8 @@ _Revolution Hall_
 - [BitKey Open Sources their Codebase](https://github.com/proto-at-block/bitkey)
 - [Core Sub 29.0 Vuln](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
 - [Timelock Cleanup for GCC, Cores Internal Miner](https://github.com/bitcoin/bitcoin/pull/32155)
+- [Hard Forking Bitcoin](https://gist.github.com/RubenSomsen/a02b9071bf81b922dcc9edea7d810b7c)
+  - [PR Removing Checkpoints ](https://github.com/bitcoin/bitcoin/pull/31649)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
