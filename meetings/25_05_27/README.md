@@ -66,6 +66,10 @@ _Revolution Hall_
 - [Timelock Cleanup for GCC, Cores Internal Miner](https://github.com/bitcoin/bitcoin/pull/32155)
 - [Hard Forking Bitcoin](https://gist.github.com/RubenSomsen/a02b9071bf81b922dcc9edea7d810b7c)
   - [PR Removing Checkpoints ](https://github.com/bitcoin/bitcoin/pull/31649)
+- [BTCPay Server Broken](https://x.com/BtcpayServer/status/1922845019494318519)
+  - [Post](https://x.com/NicolasDorier/status/1922810237938999719)
+- [Skibidi Wallet Challenge](https://skibidi.cash/)
+- [Orange Surf UTXO Set Report](https://research.mempool.space/utxo-set-report/)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
