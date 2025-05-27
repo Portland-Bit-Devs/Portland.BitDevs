@@ -88,6 +88,7 @@ _Revolution Hall_
 - [Lumis Refuses to meet with Ripple CEO](https://x.com/Swan/status/1924542730023391533)
 - [Bitcoin Hits 3Billion spend txos](https://x.com/mononautical/status/1927494779572473913/photo/1)
 - [Square will accept bitcoin payments to all PoS](https://x.com/MartiniGuyYT/status/1927456988042055817)
+    - [Not using sats](https://x.com/Square/status/1927396327039684690)
 - [Steak and Shake LN payments](https://x.com/Bryan10309/status/1923419290079834335)
 - [Strategy Completely Dogdges PoR question](https://x.com/cryptonator1337/status/1927242311991234706)
 
