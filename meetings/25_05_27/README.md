@@ -86,4 +86,5 @@ _Revolution Hall_
 - [Fake ledger steals coins](https://x.com/intell_on_chain/status/1924053872609308733)
 - [Ledger False Advertising](https://x.com/hodlorado/status/1927075626134982885)
 - [Lumis Refuses to meet with Ripple CEO](https://x.com/Swan/status/1924542730023391533)
+- [Bitcoin Hits 3Billion spend txos](https://x.com/mononautical/status/1927494779572473913/photo/1)
 ## Tech News
