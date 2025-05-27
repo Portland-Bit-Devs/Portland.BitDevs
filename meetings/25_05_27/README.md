@@ -49,26 +49,12 @@ _Revolution Hall_
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [Tether + Ocean = ❤️](https://x.com/ocean_mining/status/1911774879008927944)
-  - [Doubles](https://x.com/ocean_mining/status/1911774879008927944)
-- [0xB10C Mining Centralization](https://b10c.me/blog/015-bitcoin-mining-centralization/)
-- [0xB10C Antpool creating bad jobs](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
-- [Bitcoin Core 29.0 Released 🎉](https://bitcoincore.org/en/releases/29.0/)
-  - Ephemeral Dust
-  - Coinbase Revserved Double Counted WUs Fixes (Issues Maybe?)
-  - `testmempoolaccept` now has reject details
-  - Timewarp Fix getblocktemplate
-- [Bitcoin Core PR Checker](https://corecheck.dev/bitcoin/bitcoin/pulls/30708)
-- [Taproot Tree Visualizer on Mempool.space](https://x.com/mempool/status/1911389181101679080)
-- [Ancient Inscriptions](https://x.com/mononautical/status/1910703196672340007)
-- [Benthecarman Leaves Taproot Wizards to Work on LN](https://x.com/spiralbtc/status/1914334079387914435)
-- [Polymarket Adds OP_CAT vs. OP_CTV](https://polymarket.com/event/will-bitcoin-activate-op-ctv-or-op-cat-in-2025)
-- [XRP NPM Package PWND'](https://x.com/AikidoSecurity/status/1914610391218299190)
-- [🚨 Breaking Bitcoin Slides 🚨](https://docs.google.com/presentation/d/1gSJKPKtutw-Ui9oHIij8QMTtIvfctPXpPV85xW0pUK4/edit?usp=sharing)
-- [GCC - SPV Proofs Vulnerable to 64 Byte TXNS](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710/84)
-- [PSBT V2. Viewer](https://bip370.org/)
-- [Testnet3 Removal?](https://bitcoinops.org/en/newsletters/2025/03/28/#discussion-of-testnets-3-and-4)
-- [Taproot Annex Relay](https://bitcoinops.org/en/newsletters/2025/03/28/#plan-to-relay-certain-taproot-annexes)
+- [Bitcoin Mining Centralization Report 0xB10C](https://b10c.me/blog/015-bitcoin-mining-centralization/)
+- ['Art' Block Pizza Day](https://mempool.space/block/0000000000000000000011a508e48be0bbe2cf4cd3ec062cfafc19f78ea810e0?audit=false)
+  - [Escrow transaction](https://mempool.space/tx/8245e67349565e481c622fe3437408db7344cdf730edb193c1466326eb021c0b)
+  - Using node connect to protect funds
+  - [Reorg risk mitigation using non-standard txns](https://github.com/bitcoin/bitcoin/blob/ce46000712439782e7d44b3bb22c375503371ee6/src/validation.cpp#L299)
+-
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
