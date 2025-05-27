@@ -89,5 +89,6 @@ _Revolution Hall_
 - [Bitcoin Hits 3Billion spend txos](https://x.com/mononautical/status/1927494779572473913/photo/1)
 - [Square will accept bitcoin payments to all PoS](https://x.com/MartiniGuyYT/status/1927456988042055817)
 - [Steak and Shake LN payments](https://x.com/Bryan10309/status/1923419290079834335)
+- [Strategy Completely Dogdges PoR question](https://x.com/cryptonator1337/status/1927242311991234706)
 
 ## Tech News
