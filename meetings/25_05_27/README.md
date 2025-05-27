@@ -61,6 +61,7 @@ _Revolution Hall_
   - [Response](https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k) 
 - [TX Pidgeon using inventory messages](https://x.com/stutxo/status/1923023753040015687)
 - [Optimiziing Cluster Mempool](https://delvingbitcoin.org/t/spanning-forest-cluster-linearization/1419)
+- [BitKey Open Sources their Codebase](https://github.com/proto-at-block/bitkey)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
