@@ -71,6 +71,7 @@ _Revolution Hall_
   - SE uses pin to access secret.
   - Ledger Flex or Stax can use used to decode and display the secret
      - Still closed source so what is the point?
+  - [Licence issues](https://x.com/btcqna/status/1937525905917702297)
 - [BitVM Garbeled Circuits](https://rubin.io/public/pdfs/delbrag.pdf)
   - Current BitVM Transactions can be very large. (non-standard)
   - Avoids [this](https://medium.com/@Bitlayer/first-bitvm-bridge-use-case-successfully-executed-on-bitcoin-mainnet-105477bce266)
