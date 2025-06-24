@@ -94,7 +94,7 @@ _Revolution Hall_
   - Plausible deniability
   - [SV2 Implementation ](https://github.com/starkware-bitcoin/stratum)
 - [Selfish Mining](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757)
-  - (Simulator](https://github.com/darosior/miningsimulation)
+  - [Simulator](https://github.com/darosior/miningsimulation)
 
 
 
