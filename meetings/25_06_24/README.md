@@ -96,7 +96,8 @@ _Revolution Hall_
 - [Selfish Mining](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757)
   - [Simulator](https://github.com/darosior/miningsimulation)
 - [Ephemeral Dust Hitting the Mempool](https://mempool.space/tx/50bb2e1ae25b8c9ce49e254ed7b92a7af3ed8862dea836b2013b990d3cd3238c?showFlow=true#flow)
-
+- [OP_RETURN Uncapped as Policy (core)](https://github.com/bitcoin/bitcoin/pull/32406)
+  - [Reasoning](https://github.com/bitcoin/bitcoin/pull/32406#issuecomment-2955614286)
 
 
 ## Interesting
