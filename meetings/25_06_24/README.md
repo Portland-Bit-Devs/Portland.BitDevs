@@ -74,6 +74,9 @@ _Revolution Hall_
 - [BitVM Garbeled Circuits](https://rubin.io/public/pdfs/delbrag.pdf)
   - Current BitVM Transactions can be very large. (non-standard)
   - Avoids [this](https://medium.com/@Bitlayer/first-bitvm-bridge-use-case-successfully-executed-on-bitcoin-mainnet-105477bce266)
+- [Bitlayer Partners with 45% hash](https://blog.bitlayer.org/bitlayer-partners-with-major-mining-pools/)
+  - Get NST mined into the chain
+  - Goal is large TXs presumably (unless the above takes foot)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
