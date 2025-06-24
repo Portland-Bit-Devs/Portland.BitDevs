@@ -86,6 +86,9 @@ _Revolution Hall_
     - Tx Pidgeon
     - [net.h](https://github.com/bitcoin/bitcoin/blob/master/src/net.h)
     - ```maxconnections=125```
+- Knots Banlist
+  - [Twitter](https://x.com/aeonBTC/status/1936838919833919853)
+  - [Github](https://github.com/aeonBTC/Knots-Banlist)
 
 ## Interesting
 - [Bitcoin Policy Summit (Whashington Getting in Bed with Crypto)](https://www.btcpolicysummit.org/)
