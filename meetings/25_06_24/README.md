@@ -77,6 +77,14 @@ _Revolution Hall_
 - [Bitlayer Partners with 45% hash](https://blog.bitlayer.org/bitlayer-partners-with-major-mining-pools/)
   - Get NST mined into the chain
   - Goal is large TXs presumably (unless the above takes foot)
+- 1 sat/vByte Summer is here
+  - MARA (Policy of .1 Sats/vByte)
+  - F2Pool (Policy of .1 Sats/vByte)
+  - Ant pool (Sometimes mining .1 Sats/vByte)
+  - Discussion about how to make this happen + wallet Support
+    - Tx Pidgeon
+    - [net.h](https://github.com/bitcoin/bitcoin/blob/master/src/net.h)
+    - ```maxconnections=125```
 
 ## Interesting
 - [Bitcoin Policy Summit (Whashington Getting in Bed with Crypto)](https://www.btcpolicysummit.org/)
