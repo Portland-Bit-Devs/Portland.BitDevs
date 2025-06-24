@@ -1,7 +1,7 @@
 ---
-date: '2025-04-22'
+date: '2025-06-24'
 type: Doc/
-title: "25 April 2025 PDX BitDevs"
+title: "24 June 2025 PDX BitDevs"
 ---
 
 ## Announcements
@@ -28,7 +28,6 @@ _Revolution Hall_
 ### Special Thanks | Mentions
 
 - Thank you to everyone who shows up each month!
-- Thank you to Jon for the Bank Simulator Presentation.
 
 ### Rules
 
