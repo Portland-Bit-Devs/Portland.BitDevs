@@ -90,8 +90,12 @@ _Revolution Hall_
   - [Twitter](https://x.com/aeonBTC/status/1936838919833919853)
   - [Github](https://github.com/aeonBTC/Knots-Banlist)
 
+
 ## Interesting
 - [Bitcoin Policy Summit (Whashington Getting in Bed with Crypto)](https://www.btcpolicysummit.org/)
+- [Hackers Torch 90 Million in BTC for Motive](https://x.com/BitcoinNewsCom/status/1935443909951336910)
+  - [Quantum Proof Address 1FuckiRGCTerroristsNoBiTEX](https://x.com/BitcoinNewsCom/status/1935443912786681930)
+  - Akin to a military strike
 
 ## Bitcoin News
 - [[ETH/BTC] ATL](https://x.com/stacyherbert/status/1914476033807442340)
