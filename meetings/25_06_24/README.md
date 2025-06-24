@@ -89,6 +89,13 @@ _Revolution Hall_
 - Knots Banlist
   - [Twitter](https://x.com/aeonBTC/status/1936838919833919853)
   - [Github](https://github.com/aeonBTC/Knots-Banlist)
+  - [Lopp](https://x.com/lopp/status/1936907218638823756) Active filter
+- [Stark Based Mining](https://x.com/dimahledba/status/1935354385795592491)
+  - Plausible deniability
+  - [SV2 Implementation ](https://github.com/starkware-bitcoin/stratum)
+- [Selfish Mining](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757)
+  - (Simulator](https://github.com/darosior/miningsimulation)
+
 
 
 ## Interesting
