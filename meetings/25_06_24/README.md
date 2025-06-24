@@ -69,6 +69,7 @@ _Revolution Hall_
   - Use Gitlab (Private access for pulls/issues)
   - A lot of development and discussion alreayd happening in private (Chaincode, Brink, etc..)
   - Reduce interaction from non-technical activist users
+- [Timechain Arcade](https://timechainarcade.com/)
 - [Ledger Recovery Key](https://x.com/P3b7_/status/1937501354232008974)
   - SE uses pin to access secret.
   - Ledger Flex or Stax can use used to decode and display the secret
