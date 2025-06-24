@@ -86,6 +86,7 @@ _Revolution Hall_
     - Tx Pidgeon
     - [net.h](https://github.com/bitcoin/bitcoin/blob/master/src/net.h)
     - ```maxconnections=125```
+    - [Mononaut](https://x.com/mononautical/status/1932099710401356077)
 - Knots Banlist
   - [Twitter](https://x.com/aeonBTC/status/1936838919833919853)
   - [Github](https://github.com/aeonBTC/Knots-Banlist)
@@ -99,6 +100,9 @@ _Revolution Hall_
 - [OP_RETURN Uncapped as Policy (core)](https://github.com/bitcoin/bitcoin/pull/32406)
   - [Reasoning](https://github.com/bitcoin/bitcoin/pull/32406#issuecomment-2955614286)
 - [Non-confiscatory Transaction Weight Limit](https://delvingbitcoin.org/t/non-confiscatory-transaction-weight-limit/1732)
+- [Age based expiration of UTXOs](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
+  - IMO a horrible idea, none the less presented
+ 
 
 
 ## Interesting
