@@ -79,9 +79,8 @@ _Revolution Hall_
   - Goal is large TXs presumably (unless the above takes foot)
 
 ## Interesting
-- [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
-- bitcoindata.space
-  - WIP Torrents for Bitcoin Timechain Data
+- [Bitcoin Policy Summit (Whashington Getting in Bed with Crypto)](https://www.btcpolicysummit.org/)
+
 ## Bitcoin News
 - [[ETH/BTC] ATL](https://x.com/stacyherbert/status/1914476033807442340)
   
