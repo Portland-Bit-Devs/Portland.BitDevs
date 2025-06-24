@@ -70,7 +70,10 @@ _Revolution Hall_
 - [Ledger Recovery Key](https://x.com/P3b7_/status/1937501354232008974)
   - SE uses pin to access secret.
   - Ledger Flex or Stax can use used to decode and display the secret
-     - Still closed source so what is the point? 
+     - Still closed source so what is the point?
+- [BitVM Garbeled Circuits](https://rubin.io/public/pdfs/delbrag.pdf)
+  - Current BitVM Transactions can be very large. (non-standard)
+  - Avoids [this](https://medium.com/@Bitlayer/first-bitvm-bridge-use-case-successfully-executed-on-bitcoin-mainnet-105477bce266)
 
 ## Interesting
 - [Transaction Propigation Time](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
