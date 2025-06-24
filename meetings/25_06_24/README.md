@@ -61,6 +61,8 @@ _Revolution Hall_
 - [OP_RETURNS Nonstandard getting mined](https://x.com/mononautical/status/1919834852070694990)
   - Most were using OP_RETURN BOT
   - [Nonstandard transaction usage increasing. ](https://x.com/mononautical/status/1918740367635083495)
+- [Censorship Resistant](https://x.com/mononautical/status/1936653322301456620)
+- [Whirlpools are back!](https://ashigaru.rs/news/announcement-whirlpool/)
 - [Privatizing Bitcoin Core](https://mailing-list.bitcoindevs.xyz/bitcoindev/CABaSBax-meEsC2013zKYJnC3phFFB_W3cHQLroUJcPDZKsjB8w@mail.gmail.com/)
   - There are no additional explicit obligations beyond the license. 
   - Githubs poor moderation tools
