@@ -96,6 +96,7 @@ _Revolution Hall_
 
 ## Interesting
 - [Bitcoin Policy Summit (Whashington Getting in Bed with Crypto)](https://www.btcpolicysummit.org/)
+- [Bitcoin Shooter - No More Inflation](https://x.com/BitcoinShooter/status/1852007873691422875)
 - [Hackers Torch 90 Million in BTC for Motive](https://x.com/BitcoinNewsCom/status/1935443909951336910)
   - [Quantum Proof Address 1FuckiRGCTerroristsNoBiTEX](https://x.com/BitcoinNewsCom/status/1935443912786681930)
   - Akin to a military strike
