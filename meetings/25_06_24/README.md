@@ -48,18 +48,14 @@ _Revolution Hall_
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [OP_RETURNS Nonstandard getting mined](https://x.com/mononautical/status/1919834852070694990)
-  - Most were using OP_RETURN BOT
-  - [Nonstandard transaction usage increasing. ](https://x.com/mononautical/status/1918740367635083495)
-- [Censorship Resistant](https://censorshipresistant.com/)
-- [Whirlpools are back!](https://ashigaru.rs/news/announcement-whirlpool/)
 - [Privatizing Bitcoin Core](https://mailing-list.bitcoindevs.xyz/bitcoindev/CABaSBax-meEsC2013zKYJnC3phFFB_W3cHQLroUJcPDZKsjB8w@mail.gmail.com/)
   - There are no additional explicit obligations beyond the license. 
   - Githubs poor moderation tools
   - Use Gitlab (Private access for pulls/issues)
   - A lot of development and discussion alreayd happening in private (Chaincode, Brink, etc..)
   - Reduce interaction from non-technical activist users
-- [Timechain Arcade](https://timechainarcade.com/)
+- [Censorship Resistant](https://censorshipresistant.com/)
+- [Whirlpools are back!](https://ashigaru.rs/news/announcement-whirlpool/)
 - [Ledger Recovery Key](https://x.com/P3b7_/status/1937501354232008974)
   - SE uses pin to access secret.
   - Ledger Flex or Stax can use used to decode and display the secret
@@ -95,6 +91,7 @@ _Revolution Hall_
 - [Non-confiscatory Transaction Weight Limit](https://delvingbitcoin.org/t/non-confiscatory-transaction-weight-limit/1732)
 - [Age based expiration of UTXOs](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
   - IMO a horrible idea, none the less presented
+- [Timechain Arcade](https://timechainarcade.com/)
 
 
 ## Interesting
