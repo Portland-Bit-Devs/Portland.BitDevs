@@ -54,6 +54,7 @@ _Revolution Hall_
   - Use Gitlab (Private access for pulls/issues)
   - A lot of development and discussion alreayd happening in private (Chaincode, Brink, etc..)
   - Reduce interaction from non-technical activist users
+- [DoS Inventory](https://b10c.me/observations/15-inv-to-send-queue/)
 - [Censorship Resistant](https://censorshipresistant.com/)
 - [Whirlpools are back!](https://ashigaru.rs/news/announcement-whirlpool/)
 - [Ledger Recovery Key](https://x.com/P3b7_/status/1937501354232008974)
@@ -92,7 +93,6 @@ _Revolution Hall_
 - [Age based expiration of UTXOs](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
   - IMO a horrible idea, none the less presented
 - [Timechain Arcade](https://timechainarcade.com/)
-
 
 ## Interesting
 - [Bitcoin Policy Summit (Whashington Getting in Bed with Crypto)](https://www.btcpolicysummit.org/)
