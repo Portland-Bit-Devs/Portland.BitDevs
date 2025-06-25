@@ -95,7 +95,6 @@ _Revolution Hall_
 - [Non-confiscatory Transaction Weight Limit](https://delvingbitcoin.org/t/non-confiscatory-transaction-weight-limit/1732)
 - [Age based expiration of UTXOs](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
   - IMO a horrible idea, none the less presented
- 
 
 
 ## Interesting
@@ -103,10 +102,4 @@ _Revolution Hall_
 - [Hackers Torch 90 Million in BTC for Motive](https://x.com/BitcoinNewsCom/status/1935443909951336910)
   - [Quantum Proof Address 1FuckiRGCTerroristsNoBiTEX](https://x.com/BitcoinNewsCom/status/1935443912786681930)
   - Akin to a military strike
-
-## Bitcoin News
-- [[ETH/BTC] ATL](https://x.com/stacyherbert/status/1914476033807442340)
-  
-## Tech News
-  - Very nice video about LLVM ❤️ Rust
-- [Microsoft Quantum Meta Materials](https://x.com/satyanadella/status/1892242895094313420)
+- [Zeus Video Tutorial](https://www.youtube.com/watch?v=bDzbKH5dwys)
