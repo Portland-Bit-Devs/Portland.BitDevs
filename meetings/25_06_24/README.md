@@ -37,24 +37,14 @@ _Revolution Hall_
 
 ### Requests
 
-- A guest speaker for May 27. 2025
-- Artist / Graphic designer to help with branding and web applications. [1.6 years in]
+- A guest speaker for July 22. 2025
+- Artist / Graphic designer to help with branding and web applications. [1.7 years in]
 - Continue to improve the Portland BitDevs web experience.
-
-### Guess the Nonce
-
-- 1x Block Stream Jade
-- The UNcommunist Manifesto
-- Death Athletic Hat
 
 ### Schedule
 
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:20pm:**
-  - Mining Disrupted - Reckless
-  - Orange Pilling Non-Profits - Ahs
-  - 🚨 Breaking Bitcoin 🚨 Portland HODL
-- **7:20pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric.
+- **7:00pm - 8:30pm:** General Bitcoin Developer Discussion Lead by PortlandHODL and Eric.
 - **8:30pm - 9:00pm:** Overtime discussions about tonight's topics or additional user submissions.
 
 ## Bitcoin Dev News
