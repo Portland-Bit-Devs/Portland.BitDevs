@@ -1,7 +1,7 @@
 ---
-date: '2024-06-25'
+date: '2025-07-22'
 type: Doc/
-title: "25 June 2024 PDX BitDevs"
+title: "22nd July 2025 BitDevs"
 ---
 
 ## Announcements
@@ -15,9 +15,6 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 
 ### Guess the Nonce is Back
 After some OPs engineering we can now host a raffle without getting rugged! Prizes this week ... 🎉 🎁 😊
-  - Bitcoin Blend Coffee
-  - Bitcoin hat
-  - HODLShop Bitcoin Pizza shirt (Medium)
 
 ### Rules
 - Respect people's privacy
@@ -25,18 +22,13 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - Interaction and asking questions are encouraged!
 
 ### Requests
-- A guest speaker for May 28 2024
+- A guest speaker for Aug 26 2025
 - Artist / Graphic designed to help with branding and web applications
 - Revitalize the effort to create our own Portland.BitDevs website
 
-### Slides
-[Google Slidedeck Bitcoin Blocks](https://docs.google.com/presentation/d/1Ff8zjaY-6GvCRhyODs5eMZozosbHZKo0ZRHtvk1h558/edit?usp=sharing)
-
-
 ### Schedule
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:30pm:** Bitcoin Blocks - A deepdive into structure and construction.  
-- **7:30pm - 8:30pm:** Primary topics discussion.
+- **7:00pm - 8:30pm:** Primary topics discussion.
 - **8:00pm - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
