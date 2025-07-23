@@ -32,24 +32,19 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - **8:00pm - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
 
 ## Bitcoin Dev News
-- [Testnet 4 PR](https://bitcoincore.reviews/29775)
-- [Mechanics Statement of Bitmain Firmware Being Comprimised](https://youtu.be/7fdgqbGy2gg?t=510)
-- [Bitcoin Core Upated Security Disclosure Policy](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
-- [PoW Signet Faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937/2)
-- [Compressed Transactions - BIP337](https://github.com/bitcoin/bips/blob/master/bip-0337.mediawiki)
-- [Miniscript BIP proposed text](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
-- [Bitcoin Core v27.1 Released](https://www.nobsbitcoin.com/bitcoin-core-v27-1/)
-- [Braiins Mini miner Released](https://www.nobsbitcoin.com/braiins-mini-miner-bmm-100/)
-- [BitAxe Supra Released with S21 ICs](https://www.nobsbitcoin.com/bitaxe-supra/)
-- [Electrum Plugin for Joinstr](https://www.nobsbitcoin.com/how-to-use-electrum-plugin-for-joinstr/)
-- [Orphans and Forks Week](https://x.com/0xB10C)
-- [Dual Mempools and SigOps](https://x.com/mononautical/status/1799874506426647009)
-- [LND and Onion Bombs Vuln.](https://www.nobsbitcoin.com/lnd-versions-prior-to-v0-17-0-vulnerable-to-lnd-onion-bomb-dos-attack/)
-- [Marathon Fees +12%](https://twitter.com/theMiningPod/status/1778822943390183855)
-- [LND Fees Overfow Error](https://github.com/lightningnetwork/lnd/issues/8571)
-- [RaspberryPi 4 Sync Completes](https://twitter.com/PortlandHODL/status/1775331303950615017)
-- [Miners sharing custodian](https://twitter.com/mononautical/status/1777686545715089605)
-- [Outsourced Template Generation](https://twitter.com/0xB10C/status/1780611768081121700)
-
-## Tech news
-- [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
+- [Frostsnap Hardware Wallet](https://frostsnap.com/)
+  - Sharmir Share Backup
+  - Restor Wallet With M/N
+  - Based on BDK
+  - Early Access (Frostsnap Frontier)
+- [Gemini Exchange Adds Taproot Support](https://whentaproot.org/#support)
+- [Bitcoin Core Diskfilling Logs Attack Mitigation](https://github.com/bitcoin/bitcoin/pull/32604)
+  - 1MB per source maximum
+  - After that truncates with ...
+- [Cluster Mempool Reorg Support](https://github.com/bitcoin/bitcoin/pull/31553)
+  - A bunch of Transctions could be reorged back into the mempool cuasing too large of a cluster
+  - Now accounts for this
+  - Removes as a DoS vector
+- [Descriptor Encoding Compression](https://delvingbitcoin.org/t/a-rust-library-to-encode-descriptors-with-a-30-40-size-reduction/1804)
+  - Uses bech32 to reduce the number of Bits needed to represent a descritpor when transmitting thorough a QR Code
+  
