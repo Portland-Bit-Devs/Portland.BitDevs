@@ -54,5 +54,5 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [Mempool.space displays sub 1 sat/vByte Txns](https://x.com/mononautical/status/1946410602177380358)
   - Baha Blast Green Color
   - [Official Post](https://x.com/mempool/status/1945080617290404161)
-
+- [CoinDCX Indian Exchange Hacked 44MM](https://cointelegraph.com/news/coindcx-whitehat-recovery-bounty-44m-hack)
   
