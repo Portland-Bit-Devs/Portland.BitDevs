@@ -52,6 +52,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [Sub 1 sat/vBtye Summer is here](https://x.com/mononautical/status/1947530080475091159)
   - Over 50% of hashrate is now mining sub 1 sat/vByte transactions
 - [Mempool.space displays sub 1 sat/vByte Txns](https://x.com/mononautical/status/1946410602177380358)
-  - Baha Blast Green Color 
+  - Baha Blast Green Color
+  - [Official Post](https://x.com/mempool/status/1945080617290404161)
 
   
