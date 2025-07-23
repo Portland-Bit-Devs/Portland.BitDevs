@@ -47,4 +47,9 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
   - Removes as a DoS vector
 - [Descriptor Encoding Compression](https://delvingbitcoin.org/t/a-rust-library-to-encode-descriptors-with-a-30-40-size-reduction/1804)
   - Uses bech32 to reduce the number of Bits needed to represent a descritpor when transmitting thorough a QR Code
+- [Taproot Control Block Data Store?](https://x.com/stutxo/status/1947774746030182553)
+  - Using the merkle pairs it's possible to encode a payload into the taproot control block
+- [Sub 1 sat/vBtye Summer is here](https://x.com/mononautical/status/1947530080475091159)
+  - Over 50% of hashrate is now mining sub 1 sat/vByte transactions
+
   
