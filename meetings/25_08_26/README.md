@@ -44,6 +44,17 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 
 ## Bitcoin Dev News
 - [Sharing Block Templates](https://github.com/ajtowns/bips/blob/202508-sendtemplate/bip-ajtowns-sendtemplate.md)
+- [Unstoppable data](https://x.com/BitMEXResearch/status/1960328464008978669)
+  - Uses private keys with shared nonces to encode data
+  - Can't easily be stopped without banning private keys / reused nonces
+- [Knots PR - Stop CBF hinting](https://github.com/bitcoinknots/bitcoin/pull/167)
+  - The whole thing was never implemented
+- [Compact Block Filters Wrecked](https://x.com/darosior/status/1952753869814976638)
+- [Sub 1sat/vByte megrge](https://github.com/bitcoin/bitcoin/pull/33106)
+- [Proto Mining Rig](https://x.com/protomining/status/1956325003282030738)
+  - Rack mount esque backplane
+  - Cost / Efficiency Unknown
+- [Nytro Enclave Softforks](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918) 
 
 ## Bitcoin General News
 - [KinlyMD 5 Billion Dollar Bitcoin Treasury Offering](https://x.com/nakamoto/status/1960461088459526185)
