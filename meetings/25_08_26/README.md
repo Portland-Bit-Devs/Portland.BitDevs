@@ -34,8 +34,11 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 
 ### Schedule
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:15pm:** Presentation "The New Portland BitDevs .org Website" 
+- **7:00pm - 7:15pm:** [Presentation "The New Portland BitDevs .org Website" ](https://portlandbitdevs.org/)
 - **7:15pm - 7:45pm:** Presentation "Mining 3 Ways"
+  - https://x.com/MyFirstBitcoin_/status/1957133179015377315
+  - https://x.com/blockhunters_/status/1957876599816425842
+  - https://x.com/KeithMukai/status/1957134281337127110
 - **7:45pm - 8:00pm:** Discussion "Portland.HODL - Vote of confidence schedule"
 - **8:00pm - 8:45pm:** General Bitcoin Development Discussion
 
