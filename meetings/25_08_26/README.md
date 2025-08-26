@@ -53,7 +53,8 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [Sub 1sat/vByte megrge](https://github.com/bitcoin/bitcoin/pull/33106)
 - [Proto Mining Rig](https://x.com/protomining/status/1956325003282030738)
   - Rack mount esque backplane
-  - Cost / Efficiency Unknown
+  - Cost Unknown
+  - [Site](https://proto.xyz/products/rig)
 - [Nytro Enclave Softforks](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918) 
 
 ## Bitcoin General News
