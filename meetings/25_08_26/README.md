@@ -55,7 +55,8 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
   - Rack mount esque backplane
   - Cost Unknown
   - [Site](https://proto.xyz/products/rig)
-- [Nytro Enclave Softforks](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918) 
+- [Nytro Enclave Softforks](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918)
+- [Mara Stops Mining Sub 1sat/vByte](https://x.com/PortlandHODL/status/1958520763083825640)
 
 ## Bitcoin General News
 - [KinlyMD 5 Billion Dollar Bitcoin Treasury Offering](https://x.com/nakamoto/status/1960461088459526185)
