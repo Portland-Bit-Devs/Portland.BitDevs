@@ -1,7 +1,7 @@
 ---
 date: '2024-06-25'
 type: Doc/
-title: "25 June 2024 PDX BitDevs"
+title: "26 August 2025 PDX BitDevs"
 ---
 
 ## Announcements
@@ -13,11 +13,11 @@ If you can't make it to the main event please join us at Lutz Tavern around 9PM 
 ### Special Thanks | Mentions
 - Thank you to everyone who shows up each month!
 
-### Guess the Nonce is Back
+### Guess the Nonce is Back ([Aeon](https://x.com/aeonBTC))
 After some OPs engineering we can now host a raffle without getting rugged! Prizes this week ... 🎉 🎁 😊
-  - Bitcoin Blend Coffee
-  - Bitcoin hat
-  - HODLShop Bitcoin Pizza shirt (Medium)
+  - Bitcoin RaspberryPi Node
+  - Bitcoin Magazine Ross Ulbricth edition
+  - [censorshipresistant.com](https://censorshipresistant.com/) shirt
 
 ### Rules
 - Respect people's privacy
@@ -25,9 +25,8 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - Interaction and asking questions are encouraged!
 
 ### Requests
-- A guest speaker for May 28 2024
+- A guest speaker for September 23 2025
 - Artist / Graphic designed to help with branding and web applications
-- Revitalize the effort to create our own Portland.BitDevs website
 
 ### Slides
 [Google Slidedeck Bitcoin Blocks](https://docs.google.com/presentation/d/1Ff8zjaY-6GvCRhyODs5eMZozosbHZKo0ZRHtvk1h558/edit?usp=sharing)
@@ -35,9 +34,10 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 
 ### Schedule
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
-- **7:00pm - 7:30pm:** Bitcoin Blocks - A deepdive into structure and construction.  
-- **7:30pm - 8:30pm:** Primary topics discussion.
-- **8:00pm - 9:00pm:** Overtime discussions about tonights topics or additional user submissions.
+- **7:00pm - 7:15pm:** Presentation "The New Portland BitDevs .org Website" 
+- **7:15pm - 7:45pm:** Presentation "Mining 3 Ways"
+- **7:45pm - 8:00pm:** Discussion "Portland.HODL - Vote of confidence schedule"
+- **8:00pm - 8:45pm:** General Bitcoin Development Discussion
 
 ## Bitcoin Dev News
 - [Testnet 4 PR](https://bitcoincore.reviews/29775)
