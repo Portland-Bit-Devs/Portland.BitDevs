@@ -43,24 +43,10 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - **8:00pm - 8:45pm:** General Bitcoin Development Discussion
 
 ## Bitcoin Dev News
-- [Testnet 4 PR](https://bitcoincore.reviews/29775)
-- [Mechanics Statement of Bitmain Firmware Being Comprimised](https://youtu.be/7fdgqbGy2gg?t=510)
-- [Bitcoin Core Upated Security Disclosure Policy](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
-- [PoW Signet Faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937/2)
-- [Compressed Transactions - BIP337](https://github.com/bitcoin/bips/blob/master/bip-0337.mediawiki)
-- [Miniscript BIP proposed text](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
-- [Bitcoin Core v27.1 Released](https://www.nobsbitcoin.com/bitcoin-core-v27-1/)
-- [Braiins Mini miner Released](https://www.nobsbitcoin.com/braiins-mini-miner-bmm-100/)
-- [BitAxe Supra Released with S21 ICs](https://www.nobsbitcoin.com/bitaxe-supra/)
-- [Electrum Plugin for Joinstr](https://www.nobsbitcoin.com/how-to-use-electrum-plugin-for-joinstr/)
-- [Orphans and Forks Week](https://x.com/0xB10C)
-- [Dual Mempools and SigOps](https://x.com/mononautical/status/1799874506426647009)
-- [LND and Onion Bombs Vuln.](https://www.nobsbitcoin.com/lnd-versions-prior-to-v0-17-0-vulnerable-to-lnd-onion-bomb-dos-attack/)
-- [Marathon Fees +12%](https://twitter.com/theMiningPod/status/1778822943390183855)
-- [LND Fees Overfow Error](https://github.com/lightningnetwork/lnd/issues/8571)
-- [RaspberryPi 4 Sync Completes](https://twitter.com/PortlandHODL/status/1775331303950615017)
-- [Miners sharing custodian](https://twitter.com/mononautical/status/1777686545715089605)
-- [Outsourced Template Generation](https://twitter.com/0xB10C/status/1780611768081121700)
+- [Sharing Block Templates](https://github.com/ajtowns/bips/blob/202508-sendtemplate/bip-ajtowns-sendtemplate.md)
+
+## Bitcoin General News
+- [KinlyMD 5 Billion Dollar Bitcoin Treasury Offering](https://x.com/nakamoto/status/1960461088459526185)
 
 ## Tech news
 - [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
