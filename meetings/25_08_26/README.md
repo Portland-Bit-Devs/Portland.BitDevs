@@ -36,6 +36,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
   - https://x.com/blockhunters_/status/1957876599816425842
   - https://x.com/KeithMukai/status/1957134281337127110
 - **7:45pm - 8:00pm:** Discussion "Portland.HODL - Vote of confidence schedule"
+  - [The tweet](https://x.com/LukeDashjr/status/1959068235678011739)
 - **8:00pm - 8:45pm:** General Bitcoin Development Discussion
 
 ## Bitcoin Dev News
