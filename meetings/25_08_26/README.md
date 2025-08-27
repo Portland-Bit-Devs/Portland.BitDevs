@@ -47,6 +47,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [Knots PR - Stop CBF hinting](https://github.com/bitcoinknots/bitcoin/pull/167)
   - The whole thing was never implemented
 - [Compact Block Filters Wrecked](https://x.com/darosior/status/1952753869814976638)
+  - [CBF resources](https://bitcoinops.org/en/topics/compact-block-filters/)
 - [Sub 1sat/vByte megrge](https://github.com/bitcoin/bitcoin/pull/33106)
   - [Orphan cost](https://x.com/OrangeSurfBTC/status/1958841902221885636)
   - [People like whole numbers](https://x.com/OrangeSurfBTC/status/1958633489013649416)
