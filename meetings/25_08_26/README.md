@@ -70,3 +70,8 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 
 ## Tech news
 - [Apple 0 Day Patched](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
+
+## Poll Review
+
+<img width="374" height="689" alt="image" src="https://github.com/user-attachments/assets/a28081ef-8982-4089-b7a1-5be5b84389df" />
+
