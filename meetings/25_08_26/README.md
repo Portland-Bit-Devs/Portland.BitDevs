@@ -66,4 +66,4 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [KinlyMD 5 Billion Dollar Bitcoin Treasury Offering](https://x.com/nakamoto/status/1960461088459526185)
 
 ## Tech news
-- [Jullian Assange Ends Legal Fight](https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40)
+- [Apple 0 Day Patched](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
