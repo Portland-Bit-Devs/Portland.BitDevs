@@ -28,10 +28,6 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - A guest speaker for September 23 2025
 - Artist / Graphic designed to help with branding and web applications
 
-### Slides
-[Google Slidedeck Bitcoin Blocks](https://docs.google.com/presentation/d/1Ff8zjaY-6GvCRhyODs5eMZozosbHZKo0ZRHtvk1h558/edit?usp=sharing)
-
-
 ### Schedule
 - **6:30pm - 7:00pm:** Arrive, socialize, and grab some food.
 - **7:00pm - 7:15pm:** [Presentation "The New Portland BitDevs .org Website" ](https://portlandbitdevs.org/)
