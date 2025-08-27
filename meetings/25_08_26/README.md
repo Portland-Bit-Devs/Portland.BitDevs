@@ -55,6 +55,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
   - [Site](https://proto.xyz/products/rig)
 - [Nytro Enclave Softforks](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees/1918)
 - [Mara Stops Mining Sub 1sat/vByte](https://x.com/PortlandHODL/status/1958520763083825640)
+- [Fee Distribution Viewer](https://mainnet.observer/charts/fees-feerate-bands-stacked/)
 - [Peer Observer](https://b10c.me/projects/024-peer-observer/)
 - [Gamecube STL Viewer](https://github.com/portlandhodl/gamecube_stl_viewer)
 
