@@ -60,6 +60,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 - [Peer Observer](https://b10c.me/projects/024-peer-observer/)
 - [Stratum.work Events Viewer](https://x.com/boerst/status/1960362185659392150)
 - [Gamecube STL Viewer](https://github.com/portlandhodl/gamecube_stl_viewer)
+- [UTreeXO BIPs proposed](https://github.com/utreexo/biptreexo)
 
 ## Bitcoin General News
 - [KinlyMD 5 Billion Dollar Bitcoin Treasury Offering](https://x.com/nakamoto/status/1960461088459526185)
