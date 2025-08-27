@@ -64,6 +64,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 
 ## Bitcoin General News
 - [KinlyMD 5 Billion Dollar Bitcoin Treasury Offering](https://x.com/nakamoto/status/1960461088459526185)
+- [Google Adds KYC requirments for custodial wallets](https://x.com/NewsFromGoogle/status/1955743865144795581)
 
 ## Tech news
 - [Apple 0 Day Patched](https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html)
