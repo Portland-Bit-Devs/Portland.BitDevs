@@ -41,6 +41,7 @@ After some OPs engineering we can now host a raffle without getting rugged! Priz
 
 ## Bitcoin Dev News
 - [Sharing Block Templates](https://github.com/ajtowns/bips/blob/202508-sendtemplate/bip-ajtowns-sendtemplate.md)
+- [Skot breaks S21 Chips](https://x.com/skot9000/status/1958527930058850576)
 - [Unstoppable data](https://x.com/BitMEXResearch/status/1960328464008978669)
   - Uses private keys with shared nonces to encode data
   - Can't easily be stopped without banning private keys / reused nonces
